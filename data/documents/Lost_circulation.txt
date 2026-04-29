@@ -1,0 +1,47 @@
+Title: Lost circulation
+Source: Wikipedia (CC BY-SA 4.0)
+Topic: Petroleum Engineering
+---
+
+In oil or gas well drilling, lost circulation occurs when drilling fluid, known commonly as "mud",  flows into one or more geological formations instead of returning up the annulus.
+Lost circulation can be a serious problem during the drilling of an oil well or gas well. 
+
+
+== Consequences ==
+The consequences of lost circulation can be as little as the loss of a few dollars of drilling fluid, or as disastrous as a blowout and loss of life, so close monitoring of tanks, pits, and flow from the well, to quickly assess and control lost circulation, is taught and practiced. If the amount of fluid in the wellbore drops due to lost circulation (or any other reason), hydrostatic pressure is reduced, which can allow a gas or fluid which is under a higher pressure than the reduced hydrostatic pressure to flow into the wellbore.
+Another consequence of lost circulation is "dry drilling". Dry drilling occurs when fluid is completely lost from the well bore without drilling coming to a halt. The effects of dry drilling range from as minor as destroying a bit to as serious as major damage to the wellbore requiring a new well to be drilled. Dry drilling can also cause severe damage to the drill string, including snapping the pipe, or damage to the drilling rig itself.
+
+
+== Categories ==
+Lost circulation can be divided into the following categories:
+
+Seepage: up to 10 barrels per hour
+Partial: 10 - 50 barrels per hour
+Severe:  >50 barrels per hour
+
+
+== Control ==
+Although preferred, stopping lost circulation completely is not always possible or required. Controlled losses allow drilling to continue while keeping the wellbore full, preventing an influx of gas or fluid into the wellbore, known as a "kick", which can lead to a blowout.
+A number of options are available when lost circulation occurs, depending on the severity. Losses may be controlled by increasing the viscosity of the fluid with bentonite and/or polymers, or with the addition of other additives, which typically include organic plant matter. Total losses can be regained through conventional use of increased viscosity and additives, or through use of unconventional methods such as pumping of large organic particles (like kenaf), paper, and large mica flakes with a high viscosity fluid. If total losses occur and circulation cannot be regained, several options are available, depending on the operational requirements and depth being drilled in relation to desired production geological zones. Continuing drilling while pumping drilling fluid is one option, though continued drilling while pumping water is less costly and more often used. Sometimes the cuttings from continued drilling will aid in reducing leaks or stop losses altogether. A third option is to cement the zone where the losses occur, and to drill through the cement and continue drilling the well. This third option is very often the most cost effective if severe losses occur, as lost circulation sometimes cannot be controlled with other methods.
+
+
+== Additives ==
+There are many different types and particle sizes used as lost circulation materials (LCM). Products are both organic and synthetic man-made materials. Examples of lost circulation materials are: calcium carbonates, crushed mica, cellulosic plant particles, graphite and dolomites. Plant organic particles are usually micronized to go through a 230 mesh screen. Plant materials that have been used are kenaf, walnut hulls, peanut hulls, coconut coir, and grape pomace.
+Polymers are also sometimes used to increase the viscosity. Though these are more costly, they are more compatible with several types of fluid systems.
+Additives which physically plug or seal the losses, including sawdust, flaked cellophane, and crushed or ground gypsum.
+Other common and cheaper additives are shredded newspaper and cotton seed hulls. Cotton seed hulls are less preferred as they may cause wear to pump swabs and springs. Both of these are generally only used when either fresh or salt water is being used for the drilling fluid.
+When drilling in salt formations, brine is typically used, as it does not as readily dissolve salt, preventing the formation of washouts. Washouts not only contribute to loss of circulation, but can jeopardize the integrity of the wellbore itself.
+
+
+== Additive considerations ==
+Several factors are considered in what additives are used:
+
+Hole size being drilled.
+Drilling fluid in use. The additives must be compatible.
+Depth of the well in regards to geological stability.
+Depth of well in relation to the desired production zones. Plugging a production zone is not a desired outcome.
+Drill bit nozzle sizes. If the additive(s) will not go through the drill bit, they cannot be used.
+Other drill string mechanical equipment such as a mud motor or MWD tools. If the additive(s) will not go through the drill string, they cannot be used.
+
+
+== References ==

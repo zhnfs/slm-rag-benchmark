@@ -1,0 +1,28 @@
+Title: Gamma ray logging
+Source: Wikipedia (CC BY-SA 4.0)
+Topic: Petroleum Engineering
+---
+
+Gamma ray logging is a method of measuring naturally occurring gamma radiation to characterize the rock or sediment in a borehole or drill hole.  It is a wireline logging method used in mining, mineral exploration, water-well drilling, for formation evaluation in oil and gas well drilling and for other related purposes.  Different types of rock emit different amounts and different spectra of natural gamma radiation.  In particular, shales usually emit more gamma rays than other sedimentary rocks, such as sandstone, gypsum, salt, coal, dolomite, or limestone because radioactive potassium is a common component in their clay content, and because the cation-exchange capacity of clay causes them to absorb uranium and thorium.  This difference in radioactivity between shales and sandstones/carbonate rocks allows the gamma ray tool to distinguish between shales and non-shales. But it cannot distinguish between carbonates and sandstone as they both have similar deflections on the gamma ray log. Thus gamma ray logs cannot be said to make good lithological logs by themselves, but in practice, gamma ray logs are compared side-by-side with stratigraphic logs.  
+The gamma ray log, like other types of well logging, is done by lowering an instrument down the drill hole and recording gamma radiation variation with depth.  In the United States, the device most commonly records measurements at 1/2-foot intervals.  Gamma radiation is usually recorded in API units, a measurement originated by the petroleum industry.  Gamma rays attenuate according to the diameter of the borehole mainly because of the properties of the fluid filling the borehole, but because gamma logs are generally used in a qualitative way, amplitude corrections are usually not necessary. 
+Three elements and their decay chains are responsible for the radiation emitted by rock: potassium, thorium and uranium.  Shales often contain potassium as part of their clay content and tend to absorb uranium and thorium as well.  A common gamma-ray log records the total radiation and cannot distinguish between the radioactive elements, while a spectral gamma ray log (see below) can.
+For standard gamma-ray logs, the measured value of gamma-ray radiation is calculated from concentration of uranium in ppm, thorium in ppm, and potassium in weight percent: e.g., GR API = 8 × uranium concentration in ppm + 4 × thorium concentration in ppm + 16 × potassium concentration in weight percent. Due to the weighted nature of uranium concentration in the GR API calculation, anomalous concentrations of uranium can cause clean sand reservoirs to appear shaley. For this reason, spectral gamma ray is used to provide an individual reading for each element so that anomalous concentrations can be found and properly interpreted.
+An advantage of the gamma log over some other types of well logs is that it works through the steel and cement walls of cased boreholes.  Although concrete and steel absorb some of the gamma radiation, enough travels through the steel and cement to allow for qualitative determinations. 
+In some places, non-shales exhibit elevated levels of gamma radiation.  For instance, sandstones can contain uranium minerals, potassium feldspar, clay filling, or lithic fragments that cause the rock to have higher than usual gamma readings.  Coal and dolomite may contain absorbed uranium.  Evaporite deposits may contain potassium minerals such as sylvite and carnallite.  When this is the case, spectral gamma ray logging should be done to identify the source of these anomalies.
+
+
+== Spectral logging ==
+Spectral logging is the technique of measuring the spectrum, or number and energy, of gamma rays emitted via natural radioactivity of the rock formation. There are three main sources of natural radioactivity on Earth: potassium (40K), thorium (principally 232Th and 230Th), and uranium (principally 238U and 235U). These radioactive isotopes each emit gamma rays that have a characteristic energy level measured in MeV. The quantity and energy of these gamma rays can be measured by a scintillometer. A log of the spectroscopic response to natural gamma ray radiation is usually presented as a total gamma ray log that plots the weight fraction of potassium (%), thorium (ppm) and uranium (ppm). The primary standards for the weight fractions are geological formations with known quantities of the three isotopes. Natural gamma ray spectroscopy logs became routinely used in the early 1970s, although they had been studied from the 1950s.
+The characteristic gamma ray line that is associated with each radioactive component:
+
+Potassium : Gamma ray energy 1.46 MeV
+Thorium series: Gamma ray energy  2.61 MeV
+Uranium-Radium series: Gamma ray energy 1.76 MeV
+Another example of the use of spectral gamma ray logs is to identify specific clay types, like kaolinite or illite. This may be useful for interpreting the environment of deposition as kaolinite can form from feldspars in tropical soils by leaching of potassium; and low potassium readings may thus indicate the presence of one or more paleosols. The identification of specific clay minerals is also useful for calculating the effective porosity of reservoir rock.
+
+
+== Use in mineral exploration ==
+Gamma ray logs are also used in mineral exploration, especially exploration for phosphates, uranium, and potassium salts.
+
+
+== References ==

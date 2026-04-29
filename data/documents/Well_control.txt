@@ -1,0 +1,401 @@
+Title: Well control
+Source: Wikipedia (CC BY-SA 4.0)
+Topic: Petroleum Engineering
+---
+
+Well control is the technique used in oil and gas operations such as drilling, well workover and well completion for maintaining the hydrostatic pressure and formation pressure to prevent the influx of formation fluids into the wellbore. This technique involves the estimation of formation fluid pressures, the strength of the subsurface formations and the use of casing and mud density to offset those pressures in a predictable fashion. Understanding pressure and pressure relationships is important in well control.
+The aim of oil operations is to complete all tasks in a safe and efficient manner without detrimental environmental effects. This aim can only be achieved if well control is maintained at all times. The understanding of pressure and pressure relationships are important in preventing blowouts by experienced personnel who are able to detect when the well is kicking and take proper and prompt actions.
+
+
+== Fluid pressure ==
+The fluid is any substance that flows; e.g., oil, water, gas and ice are all examples of fluids. Under extreme pressure and temperature, almost anything acts as a fluid. Fluids exert pressure, and this pressure comes from the density and height of the fluid column. Oil companies typically measure density in pounds per gallon (ppg) or kilograms per cubic meter (kg/m3) and pressure measurement in pounds per square inch (psi) or bar or pascal (Pa). Pressure increases with fluid density. To find out the amount of pressure fluid of a known density exerts per unit length, the pressure gradient is used. The pressure gradient is defined as the pressure increase per unit of depth due to its density and it is usually measured in pounds per square inch per foot or bars per meter. It is expressed mathematically as:
+
+Pressure Gradient = Fluid Density * Conversion Factor
+PressureGradient=FluidDensity*ConversionFactor
+  
+.
+The conversion factor used to convert density to pressure is 0.052 in Imperial system and 0.0981 in Metric system.
+
+
+== Hydrostatic pressure ==
+Hydro means water, or fluid, that exerts pressure and static means not moving or at rest. Therefore, hydrostatic pressure is the total fluid pressure created by the weight of a column of fluid, acting on any given point in a well. In oil and gas operations, it is represented mathematically as
+
+Hydrostatic Pressure = Pressure Gradient * True Vertical Depth
+HydrostaticPressure=PressureGradient*TrueVerticalDepth
+  
+
+or
+
+Hydrostatic Pressure = Fluid Density * Conversion Factor * True Vertical Depth
+HydrostaticPressure=FluidDensity*ConversionFactor*TrueVerticalDepth
+  
+.
+The true vertical depth is the distance that a well reaches below ground. The measured depth is the length of the well including any angled or horizontal sections. Consider two wells, X and Y. Well X has a measured depth of 9,800  ft and a true vertical depth of 9,800  ft while well Y has measured depth of 10,380  ft while its true vertical depth is 9,800  ft. To calculate the hydrostatic pressure of the bottom hole, the true vertical depth is used because gravity acts (pulls) vertically down the hole.
+
+
+== Formation pressure ==
+Formation pressure is the pressure of the fluid within the pore spaces of the formation rock. This pressure can be affected by the weight of the overburden (rock layers) above the formation, which exerts pressure on both the grains and pore fluids. Grains are solid or rock material, while pores are spaces between grains. If pore fluids are free to move or escape, the grains lose some of their support and move closer together. This process is called consolidation. Depending on the magnitude of the pore pressure, it is described as normal, abnormal or subnormal.
+
+
+=== Normal ===
+Normal pore pressure or formation pressure is equal to the hydrostatic pressure of formation fluid extending from the surface to the surface formation being considered. In other words, if the structure was opened and allowed to fill a column whose length is equal to the depth of the formation, then the pressure at the bottom of the column is similar to the formation pressure and the pressure at the surface is equal to zero. Normal pore pressure is not constant. Its magnitude varies with the concentration of dissolved salts, type of fluid, gases present and temperature gradient.
+When a normally pressured formation is raised toward the surface while prevented from losing pore fluid in the process, it changes from normal pressure (at a greater depth) to abnormal pressure (at a shallower depth). When this happens, and then one drills into the formation, mud weights of up to 20 ppg (2397 kg/m ³) may be required for control. This process accounts for many of the shallow, abnormally pressured zones in the world. In areas where faulting is present, salt layers or domes are predicted, or excessive geothermal gradients are known, drilling operations may encounter abnormal pressure.
+
+
+=== Abnormal ===
+Abnormal pore pressure is defined as any pore pressure that is greater than the hydrostatic pressure of the formation fluid occupying the pore space. It is sometimes called overpressure or geopressure. An abnormally pressured formation can often be predicted using well history, surface geology, downhole logs or geophysical surveys.
+
+
+=== Subnormal ===
+Subnormal pore pressure is defined as any formation pressure that is less than the corresponding fluid hydrostatic pressure at a given depth. Subnormally pressured formations have pressure gradients lower than fresh water or less than 0.433 psi/ft (0.0979 bar/m). Naturally occurring subnormal pressure can develop when the overburden has been stripped away, leaving the formation exposed at the surface. Depletion of original pore fluids through evaporation, capillary action, and dilution produce hydrostatic gradients below 0.433 psi/ft (0.0979 bar/m). Subnormal pressures may also be induced through depletion of formation fluids. If Formation Pressure < Hydrostatic pressure, then it is under pressure. If Formation Pressure > Hydrostatic pressure then it is overpressured.
+
+
+== Fracture pressure ==
+Fracture pressure is the amount of pressure it takes to permanently deform the rock structure of a formation. Overcoming formation pressure is usually not sufficient to cause fracturing. If more fluid is free to move, a slow rate of entry into the formation will not cause fractures. If pore fluid cannot move out of the way, fracturing and permanent deformation of the formation can occur. Fracture pressure can be expressed as a gradient (psi/ft), a fluid density equivalent (ppg), or by calculated total pressure at the formation (psi). Fracture gradients normally increase with depth due to increasing overburden pressure. Deep, highly compacted formations can require high fracture pressures to overcome the existing formation pressure and resisting rock structure. Loosely compacted formations, such as those found offshore in deep water, can fracture at low gradients (a situation exacerbated by the fact that some of total "overburden" up the surface is sea water rather than the heavier rock that would be present in an otherwise-comparable land well). Fracture pressures at any given depth can vary widely because of the area's geology.
+
+
+== Bottom hole pressure ==
+Bottom hole pressure is used to represent the sum of all the pressures being exerted at the bottom of the hole. The pressure is imposed on the walls of the hole. The hydrostatic fluid column accounts for most of the pressure, but the pressure to move fluid up the annulus also acts on the walls. In larger diameters, this annular pressure is small, rarely exceeding 200 psi (13.79 bar). In smaller diameters, it can be 400 psi (27.58 bar) or higher. Backpressure or pressure held on the choke further increases bottom hole pressure, which can be estimated by adding up all the known pressures acting in, or on, the annular (casing) side. Bottom hole pressure can be estimated during the following activities
+
+
+=== Static well ===
+If no fluid is moving, the well is static. The bottom hole pressure (BHP) is equal to the hydrostatic pressure (HP) on the annular side. If shut in on a kick, bottom hole pressure is equal to the hydrostatic pressure in the annulus plus the casing (wellhead or surface pressure) pressure.
+
+
+=== Normal circulation ===
+During circulation, the bottom hole pressure is equal to the hydrostatic pressure on the annular side plus the annular pressure loss (APL).
+
+
+=== Rotating head ===
+During circulating with a rotating head the bottom hole pressure is equal to the hydrostatic pressure on the annular side, plus the annular pressure loss, plus the rotating head backpressure.
+
+
+=== Circulating a kick out ===
+Bottom hole pressure is equal to hydrostatic pressure on the annular side, plus annular pressure loss, plus choke (casing) pressure. For subsea, add choke line pressure loss.
+
+
+== Formation integrity test ==
+An accurate evaluation of a casing cement job as well as of the formation is important during the drilling and subsequent phases. The Information resulting from Formation Integrity Tests (FIT) is used throughout the life of the well and for nearby wells. Casing depths, well control options, formation fracture pressures and limiting fluid weights may be based on this information. To determine formation strength and integrity, a Leak Off Test (LOT) FIT may be performed.
+The FIT is: a method of checking the cement seal between the casing and the formation. The LOT determines the pressure and/or fluid weight the test zone below the casing can sustain. The fluid in the well must be circulated clean to ensure it is of a known and consistent density. If mud is used, it must be properly conditioned and gel strengths minimized. The pump used should be a high-pressure, low-volume test, or cementing pump. Rig pumps can be used if the rig has electric drives on the mud pumps, and they can be slowly rolled over. If the rig pump must be used and the pump cannot be easily controlled at low rates, then the leak-off technique must be modified. It is a good idea to make a graph of the pressure versus time or volume for all leak-off tests.
+The main reasons for performing FIT are:
+
+To investigate the strength of the cement bond around the casing shoe and to ensure that no communication is established with higher formations.
+To determine the fracture gradient around the casing shoe and therefore establish the upper limit of the primary well control for the open hole section below the current casing.
+To investigate well bore capability to withstand pressure below the casing shoe in order to test the well engineering plan regarding the casing shoe setting depth.
+
+
+== U-tube concepts ==
+It is often helpful to visualize the well as a U-shaped tube. Column Y of the tube represents the annulus, and column X represents the pipe (string) in the well. The bottom of the U-tube represents the bottom of the well. In most cases, fluids create hydrostatic pressure in both the pipe and annulus. Atmospheric pressure can be omitted since it works the same on both columns. If the fluid in both the pipe and annulus are of the same density, hydrostatic pressures would be equal, and the fluid would be static on both sides of the tube. If the fluid in the annulus is heavier, it will exert more pressure downward and will flow into the string, pushing some of the lighter fluid out of the string, causing a flow at the surface. The fluid level then falls in the annulus, equalizing pressures. Given a difference in the hydrostatic pressures, the fluid will try to reach a balanced point. This is called U-tubing, and it explains why there is often a flow from the pipe when making connections. This is often evident when drilling fast because the effective density in the annulus is increased by cuttings.
+
+
+== Equivalent circulating densities ==
+The Equivalent Circulating Density (ECD) is defined as the increase in density due to friction, normally expressed in pounds per gallon. Equivalent Circulating Density (when forward circulating) is defined as the apparent fluid density that results from adding annular friction to the actual fluid density in the well.
+
+  
+    
+      
+ECD = MW + 
+        
+          
+            
+P
+              
+a
+              
+            
+            
+              0.052
+ * TVD
+            
+          
+        
+      
+    
+ECD=MW+{\frac {P_{a
+  
+ or 
+  
+    
+      
+ECD = MW + (p
+        
+/
+        
+        1.4223
+ * TVD(M)
+      
+    
+ECD=MW+(p/1.4223*TVD(M)
+  
+
+Where:
+
+  
+    
+      
+ECD
+      
+    
+ECD
+  
+ = Equivalent circulating density (ppg)
+
+  
+    
+      
+        
+          
+P
+            
+a
+            
+          
+        
+      
+    
+{P_{a
+  
+ = Difference between annular pressure at surface & annular pressure at depth TVD (psi)
+
+  
+    
+      
+TVD
+      
+    
+TVD
+  
+ = True vertical depth (ft)
+
+  
+    
+      
+MW
+      
+    
+MW
+  
+ = Mud weight (ppg)
+When the drilling mud is under static condition (no circulation), pressure at any point is only due to drilling mud weight and is given by:-
+
+  
+    
+      
+PressureUnderStaticCondition = 
+        0.052
+ * MudWeight * TVD
+      
+    
+PressureUnderStaticCondition=0.052*MudWeight*TVD
+  
+
+During circulation, the pressure applied is due to drilling mud weight and also due to the pressure applied by the mud pumps to circulate the drilling fluid.
+
+  
+    
+      
+PressureUnderCirculatingCondition = PressureUnderStaticCondition + PressureDueToPumpingAtThatPointOrPressureLossInTheSystem
+      
+    
+PressureUnderCirculatingCondition=PressureUnderStaticCondition+PressureDueToPumpingAtThatPointOrPressureLossInTheSystem
+  
+
+If we convert pressure under circulating condition in the annulus to its density equivalent, it will be called ECD.
+Dividing the above equation by 
+  
+    
+      
+        0.052
+ * TVD
+      
+    
+0.052*TVD
+  
+ into both sides:
+
+  
+    
+      
+ECD = 
+        
+          
+            
+PressureUnderStaticCondition + AnnularPressureLoss
+            
+            
+              0.052
+ * TVD
+            
+          
+        
+      
+    
+ECD={\frac {PressureUnderStaticCondition+AnnularPressureLoss
+  
+
+  
+    
+      
+ECD = 
+        
+          
+            
+MW + AnnularPressureLoss
+            
+            
+              0.052
+ * TVD
+            
+          
+        
+      
+    
+ECD={\frac {MW+AnnularPressureLoss
+  
+
+using (
+  
+    
+      
+PressureUnderStaticCondition = 
+        0.052
+ * TVD * MW
+      
+    
+PressureUnderStaticCondition=0.052*TVD*MW
+  
+)
+
+
+== Pipe surge/swab ==
+During trips (up/down) the drill string acts as a large piston, when moving down it increases the pressure below the drill string and forces the drilling fluid into the formation which is termed as surge. Similarly, while moving up, there is a low-pressure zone created below the drill string, which sucks the formation fluid into the wellbore, which is called swab.
+The total pressure acting on the wellbore is affected by pipe movement upwards or downwards. Tripping pipe into and out of a well is another common operation during completions and workovers. Unfortunately, statistics indicate that most kicks occur during trips. Therefore, understanding the basic concepts of tripping is a major concern in completion/workover operations.
+Downward movement of tubing (tripping in) creates a pressure that is exerted on the bottom of a well. As the tubing is entering a well, the fluid in the well must move upward to exit the volume consumed by the tubing. The combination of the downward movement of the tubing and the upward movement of the fluid (or piston effect) results in an increase in pressure throughout the well. This increase in pressure is commonly called Surge pressure.
+Upward movement of the tubing (tripping out) also affects the pressure at the bottom of the well. When pulling pipe, the fluid must move downward and replace the volume occupied by the tubing. The net effect of the upward and downward movements creates a decrease in bottom hole pressure. This decrease in pressure is referred to as Swab pressure. Both surge and swab pressures are affected by:
+
+Velocity of the pipe, or tripping speed
+Fluid density
+Fluid viscosity
+Fluid gel strength
+Well bore geometry (annular clearance between tools and casing, tubing open-ended or closed off)
+The faster pipe moves, the greater the surge and swab effects. The greater the fluid density, viscosity and gel strength, the greater the surge and swab. Finally, the downhole tools such as packers and scrapers, which have small annular clearance, also increase surge and swab effects. Determination of actual surge and swab pressures can be accomplished with the use of WORKPRO and DRILPRO calculator programs or hydraulics manuals.
+
+
+== Differential pressure ==
+In well control, differential pressure is defined as the difference between the formation pressure and the bottom hole hydrostatic pressure. These are classified as overbalanced, underbalanced or balanced.
+
+Overbalanced – The hydrostatic pressure exerted on the bottom of the hole is greater than the formation pressure. i.e., HP > FP
+Underbalanced – The hydrostatic pressure exerted on the bottom of the hole is less than the formation pressure. i.e., HP < FP
+Balanced – The hydrostatic pressure exerted on the bottom of the hole is equal to the formation pressure. i.e., HP = FP
+
+
+== Cuttings change: shape, size, amount, type ==
+Cuttings are rock fragments chipped, scraped or crushed away from a formation by the action of the drill bit. The size, shape, and amount of cuttings depend largely on formation type, weight on the bit, bit sharpness and the pressure differential (formation versus fluid hydrostatic pressures). The size of the cuttings usually decreases as the bit dulls during drilling if the weight on bit, formation type and the pressure differential, remain constant. However, if the pressure differential changes (formation pressure increases), even a dull bit could cut more effectively, and the size, shape, and amount of cuttings could increase.
+
+
+== Kick ==
+
+Kick is defined as an undesirable influx of formation fluid into the wellbore. If left unchecked, a kick can develop into a blowout (an uncontrolled influx of formation fluid into the wellbore). The result of failing to control a kick leads to lost operation time, loss of well and quite possibly, the loss of the rig and lives of personnel.
+
+
+=== Causes ===
+Once the hydrostatic pressure is less than the formation pore pressure, formation fluid can flow into the well. This can happen when one or a combination of the following occurs:
+
+Improper hole fill up
+Insufficient mud density
+Swabbing/surging
+Lost circulation
+Abnormal formation pressure
+Gas cut mud
+Poor well planning
+
+
+==== Improper hole fill up ====
+When tripping out of the hole, the volume of the removed pipe results in a corresponding decrease in the wellbore fluid. Whenever the fluid level in the hole decreases, the hydrostatic pressure that it exerts also decreases and if the decrease in hydrostatic pressure falls below the formation pore pressure, the well may flow. Therefore, the hole must be filled to maintain sufficient hydrostatic pressure to control formation pressure. During tripping, the pipe could be dry or wet depending on the conditions. The API7G illustrates the methodology for calculating accurate pipe displacement and gives correct charts and tables. The volume to fill the well when tripping dry pipe out is:
+
+  
+    
+      
+BarrelToFill = PipeDisplacement(bbl
+        
+/
+        
+ft) * LengthPulled(ft)
+      
+    
+BarrelToFill=PipeDisplacement(bbl/ft)*LengthPulled(ft)
+  
+
+To calculate the volume to fill the well when tripping wet pipe out is given as;
+
+  
+    
+      
+BarrelToFill = (PipeDisplacement(bbls
+        
+/
+        
+ft) + PipeCapacity(bbls
+        
+/
+        
+ft)) * LengthPulled(ft)
+      
+    
+BarrelToFill=(PipeDisplacement(bbls/ft)+PipeCapacity(bbls/ft))*LengthPulled(ft)
+  
+
+In some wells, monitoring fill-up volumes on trips can be complicated by loss through perforations. The wells may stand full of fluid initially, but over time the fluid seeps into the reservoir. In such wells, the fill-up volume always exceeds the calculated or theoretical volume of the pipe removed from the well. In some fields, wells have low reservoir pressures and will not support a full column of fluid. In these wells filling the hole with fluid is essentially impossible unless sort of bridging agent is used to temporarily bridge off the subnormally pressured zone. The common practice is to pump the theoretical fill-up volume while pulling out of the well.
+
+
+==== Insufficient mud (fluid) density ====
+The mud in the wellbore must exert enough hydrostatic pressure to equal the formation pore pressure. If the fluid's hydrostatic pressure is less than formation pressure the well can flow. The most common reason for insufficient fluid density is drilling into unexpected abnormally pressured formations. This situation usually arises when unpredicted geological conditions are encountered. Such as drilling across a fault that abruptly changes the formation being drilled.
+Mishandling mud at the surface accounts for many instances of insufficient fluid weight. Such as opening the wrong valve on the pump suction manifold and allowing a tank of lightweight fluid to be pumped; bumping the water valve so more is added than intended; washing off shale shakers; or clean-up operations. All of these can affect mud weight.
+
+
+==== Swabbing /Surging ====
+Swabbing is as a result of the upward movement of pipe in a well and results in a decrease in bottom hole pressure. In some cases, the bottom hole pressure reduction can be large enough to cause the well to go underbalanced and allow formation fluids to enter the wellbore. The initial swabbing action compounded by the reduction in hydrostatic pressure (from formation fluids entering the well) can lead to a significant reduction in bottom hole pressure and a larger influx of formation fluids. Therefore, early detection of swabbing on trips is critical to minimizing the size of a kick.
+Many wellbore conditions increase the likelihood of swabbing on a trip. Swabbing (piston) action is enhanced when the pipe is pulled too fast. Poor fluid properties, such as high viscosity and gel strengths, also increase the chances of swabbing a well in. Additionally, large outside diameter (OD) tools (packers, scrapers, fishing tools, etc.) enhance the piston effect.
+These conditions need to be recognized in order to decrease the likelihood of swabbing a well in during completion/workover operations. As mentioned earlier, there are several computer and calculator programs that can estimate surge and swab pressures. Swabbing is detected by closely monitoring hole fill-up volumes during trips. For example, if three barrels of steel (tubing) are removed from the well and it takes only two barrels of fluid to fill the hole, then a one barrel kick has probably been swabbed into the wellbore. Special attention should be paid to hole fill-up volumes since statistics indicate that most kicks occur on trips.
+
+
+==== Lost circulation ====
+Another cause of kick during completion/workover operations is lost circulation. Loss of
+circulation leads to a drop of both the fluid level and hydrostatic pressure in a well. If the
+hydrostatic pressure falls below the reservoir pressure, the well kicks. Three main causes of lost circulation are:
+
+Excessive pressure overbalance
+Excessive surge pressure
+Poor formation integrity
+
+
+==== Abnormal pressure ====
+In case of drilling a wildcat or exploratory well (often the formation pressures are not known accurately) the bit suddenly penetrates into an abnormal pressure formation resulting the hydrostatic pressure of mud become less than the formation pressure and cause a kick.
+
+
+==== Gas cut mud ====
+When the gas is circulated to the surface, it expands and reduces the hydrostatic pressure sufficient to allow a kick. Although the mud density is reduced considerably at the surface, the hydrostatic pressure is not reduced significantly since the gas expansion occurs near surface and not at the bottom.
+
+
+==== Poor well planning ====
+The fourth cause of kick is poor planning. The mud and casing programs bear on well control. These programs must be flexible enough to allow progressively deeper casing strings to be set; otherwise a situation may arise where it is not possible to control kicks or lost circulation.
+
+
+== Methods ==
+During drilling, kicks are usually killed using the Driller's, Engineer's or a hybrid method called Concurrent, while forward circulating. The choice will depend on:
+
+the amount and type of kick fluids in the well
+the rig's equipment capabilities
+the minimum fracture pressure in the open hole
+the drilling and operating companies well control policies.
+For workover or completion operations, other methods are often used. Bullheading is a common way to kill a well during workovers and completions operations but is not often used while drilling. Reverse circulation is another kill method used for workovers that are not used for drilling.
+
+
+== See also ==
+Blowout (well drilling)
+Blowout preventer
+Oil well
+Oil well control
+
+
+== References ==

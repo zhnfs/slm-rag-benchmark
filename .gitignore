@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+results/*.json
+models/
+slm_rag_benchmark.egg-info/

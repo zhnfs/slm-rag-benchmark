@@ -1,0 +1,71 @@
+Title: Well stimulation
+Source: Wikipedia (CC BY-SA 4.0)
+Topic: Petroleum Engineering
+---
+
+Well stimulation is a broad term used to describe the various techniques and well interventions that can be used to restore or enhance the production of hydrocarbons from an oil well, or energy from a geothermal well. 
+Well stimulation can be performed on an oil or gas well located onshore or offshore, often with specialised ships. The glossary of technical terms provided by Schlumberger (the world's largest oil service company) defines stimulation as:  
+
+A treatment performed to restore or enhance the productivity of a well. Stimulation treatments fall into two main groups, hydraulic fracturing treatments and matrix treatments. Fracturing treatments are performed above the fracture pressure of the reservoir formation and create a highly conductive flow path between the reservoir and the wellbore. Matrix treatments are performed below the reservoir fracture pressure and generally are designed to restore the natural permeability of the reservoir following damage to the near-wellbore area.
+Stimulation is usually part of the completion stage in the life cycle of a well. Matrix acidising operates in the near-wellbore environment, and is aimed at restoring the natural permeability of the reservoir rock. But hydraulic fracking aims to increase the permeability of a far larger volume of reservoir rock. In addition to matrix acidising there is fracture acidising, which is a variety of hydraulic fracking.
+The Society of Petroleum Engineers (SPE) points out that these two kinds of acid treatment often lead to confusion.
+
+The flow chart here helps to clarify the definitions. Under stimulation, non-hydraulic methods include: the use of explosives underground - a technique which dates back to the mid nineteenth century, and electrical methods.
+
+Fracking, using either hydraulic pressure or acid, is the most common method for well stimulation. Well stimulation techniques help create pathways for oil, gas or water to flow more easily, ultimately increasing the overall production of the well. Both methods of fracking are classed as unconventional, because they aim to permanently enhance (increase) the permeability of the formation. So the traditional division of hydrocarbon-bearing rocks into source and reservoir no longer holds; the source rock becomes the reservoir after the treatment.
+Hydraulic fracking is more familiar to the general public, and is the predominant method used in hydrocarbon exploitation, but acid fracking has a much longer history. Although the hydrocarbon industry tends to use fracturing rather than the word fracking, which now dominates in popular media, an industry patent application dating from 2014 explicitly uses the term  acid fracking in its title.
+
+
+== Towards a precise definition ==
+Fracking, well stimulation and unconventional hydrocarbon resources are often imprecisely defined, and/or convey different meanings depending upon the interlocutor. For example, Daniel Soeder claims that:
+
+The term “fracking” is commonly used by opponents of oil and gas development in a negative sense to describe the entire drilling, completion, and production process. Industry prefers the spelling “frac” without the “k,” and uses the term only for the stimulation step.
+The US Geological Survey (USGS) avoids using the term unconventional, writing instead of continuous petroleum accumulations. Legislators (for example in California) need to be able to define terms such as well stimulation treatment clearly and precisely so as to be able to approve or deny an application to drill for unconventional resources.
+
+Harris Cander proposed a two-parameter definition to distinguish between conventional and unconventional resources. The primary parameter is the permeability of the host rock, and the second is the viscosity of the fluid resource (gas or oil) in the rock. He used the universally accepted criterion of 0.1 millidarcies (md) as the cut-off point below which the permeability is termed 'tight'. Both permeability and viscosity are conventionally expressed by logarithmic scales, since their measurements are effectively order-of-magnitude estimates. He claimed that his definition differentiates all unconventional reservoirs from all conventional reservoirs, encompasses all petroleum phases, and uses quantitative properties. But if one omits two minor categories of resource, 'heavy oil' and 'onshore viscous oil', his definition can be reduced to a one-dimensional criterion by ignoring viscosity and simply applying the 0.1 md permeability cut-off. His definition does not address the problem of methods of extraction and whether, for example, near-wellbore activities do or do not count as 'unconventional' - an important issue for legislators.
+In the UK legislative and hydrocarbon permitting context, Adriana Zalucka et al. (in a peer-reviewed article from 2021) have reviewed the various definitions, including historical misinformation, and have proposed a new, robust definition of unconventional hydrocarbon extraction:
+
+All well stimulation treatments of oil and gas wells which increase the permeability of the target rock volume to higher than 0.1 millidarcies beyond a 1 m radius from the borehole.
+The above definition focuses on increasing permeability, rather than on any particular extraction process. It is quantitative, using the generally agreed 0.1 md cut-off value discussed above. It exempts borehole cleaning processes like acid squeeze (an ambiguous term) or acid wash from being classed as unconventional, by using the 1 m radius criterion. It avoids a definition based on, for example, the quantity of water injected, which is controversial, or the injection pressure applied (whether the treatment is above or below the fracture gradient, as shown in the flow chart above). It also exempts non-hydrocarbon wells from being classed as unconventional.
+Although the Zalucka et al. definition was developed within the UK fracking context it has universal application. An important distinction between the definitions of Cander and of Zalucka et al. is that the former concerns the rock and fluid properties in isolation, whereas the latter defines 'unconventional' by the method of exploitation.
+
+
+== Cleaning the formation ==
+The assortment of drilling fluid pumped down the well during drilling and completion can often cause damage to the surrounding formation by entering the reservoir rock and blocking the pore throats (the channels in the rock throughout which the reservoir fluids flow).  Similarly, the act of perforating can have a similar effect by jetting debris into the perforation channels.  Both these situations reduce the permeability in the near well bore area and so reduce the flow of fluids into the well bore.
+A simple and safe solution is to pump diluted acid mixtures from surface into the well to dissolve the offending material.  Once dissolved, permeability should be restored and the reservoir fluids will flow into the well bore, cleaning up what is left of the damaging material.  After initial completion, it is common to use minimal amounts of formic acid to clean up any mud and skin damage.  In this situation, the process is loosely referred to as "well stimulation." Oftentimes, groups that oppose oil and gas production refer to the process as "acidization," which is actually the use of acids in high volume and high pressure to stimulate oil production.
+In more serious cases, pumping from surface is insufficient as it does not target any particular location downhole and reduces the chances of the chemical retaining its effectiveness when it gets there.  In these cases, it is necessary to spot the chemical directly at its target through the use of coiled tubing.  Coiled tubing is run in hole with a jetting tool on the end.  When the tool is at its target, the chemical is pumping through the pipe and is jetted directly onto the damaged area.  This can be more effective than pumping from surface, though it is much more expensive, and accuracy is dependent on knowing the location of the damage.
+
+
+== Extending the perforation tunnels and fractures ==
+
+In cased hole completions, perforations are intended to create a hole through the steel casing so that the reservoir can be produced. The holes are typically formed by shaped explosives that perforate the casing and create a fractured hole into the reservoir rock for a short distance.   In many cases, the tunnels created by the perforation guns do not provide enough surface area and it becomes desirable to create more area in contact with the wellbore.
+In some cases, more area is needed if the reservoir is of low permeability. In other cases, damage caused by drilling and completion operations can be severe enough that the perforation tunnel does not effectively penetrate through the damaged volume near the bore.  This means that the ability of fluids to flow into the existing perforation tunnels is too limited.  One method to achieve more stimulation is by carrying out a hydraulic fracture treatment through the perforations.
+If permeability is naturally low, then as fluid is drained from the immediate area, replacement fluid may not flow into the void sufficiently quickly to make up for the voidage and so the pressure drops.  The well cannot then flow at a rate sufficient to make production economic.  In this case, extending a hydraulic fracture deeper into the reservoir will allow higher production rates to be achieved.
+Propellant stimulations can be a very economical way to clean up nearbore damage. Propellants are a low-explosive material that generate large amounts of gas downhole very rapidly. The gas pressure builds in the wellbore, increasing tension in the rock until it becomes greater than the breakdown pressure of the formation. Fracture length and fracture pattern are highly dependent on the type of propellant stimulation tool that is used.
+
+
+== Acidization ==
+Acidizing is a well stimulation technique that injects an acid solution into the well. Acidization process cleans out debris clogging the well and increases the permeability of the reservoir rock, allowing oil or gas to flow more freely.
+
+
+== Hydraulic fracturing ==
+
+
+== Lifting the well ==
+Some stimulation techniques do not necessarily mean altering the permeability outside the well bore.  Sometimes they involve making it easier for fluids to flow up the well bore having already entered.  Gas lift is sometimes considered a form of stimulation, particularly when it is only used for starting up the well and shut off during steady state operation.  More commonly though, lifting as a stimulation refers to trying to lift out heavy liquids that have accumulated at the bottom, either through water entry from the formation or through chemicals injected from surface such as scale inhibitors and methanol (hydrate inhibitor).  These liquids sit at the bottom of the well as can act as a weight holding back the flow of reservoir fluids, essentially acting to kill the well.  They can be removed by circulating nitrogen using coiled tubing.
+
+
+== Well stimulation vessels ==
+In more recent times, due to the temporary nature of well stimulation, specialized drilling ships known as "well stimulation vessels" have been used for deep sea well stimulation. Offshore companies such as Norshore and Schlumberger operate a fleet of such specialized ships. Also known as "Multipurpose drilling vessels", these ships replace the conventional drilling oil rig, thus resulting in considerable savings in cost. Some WSV's such as the "Norshore Atlantic" are able to perform multiple tasks including riserless operation in the shallow- and mid-water segments, drilling complete oil wells and performing complete subsea decommissioning (P&A). They are also able to perform pre-drilling of the top hole sections in deep water and well intervention operations with workover risers.
+
+
+== See also ==
+Well intervention
+Well kill
+Oil reservoir
+
+
+== Notes ==
+
+
+== References ==

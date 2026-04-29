@@ -1,0 +1,80 @@
+Title: Casing (borehole)
+Source: Wikipedia (CC BY-SA 4.0)
+Topic: Petroleum Engineering
+---
+
+Casing is a large diameter pipe that is assembled and inserted into a recently drilled section of a borehole to protect and support the wellstream. The lower portion (and sometimes the entirety) is typically held in place with cement, as casing that is cemented in place aids the drilling process in several ways. Optimum design of the casing program decreases the well construction costs, enhances the efficiency of operations and also diminishes the environmental impacts. Typically, a well contains multiple intervals of casing successively placed within the previous casing run.
+
+
+== Description ==
+Casing is a large diameter pipe that is assembled and inserted into a recently drilled section of a borehole. Similar to the bones of a spine protecting the spinal cord, casing is set inside the drilled borehole to protect and support the wellstream. The lower portion (and sometimes the entirety) is typically held in place with cement. Deeper strings usually are not cemented all the way to the surface, so the weight of the pipe must be partially supported by a casing hanger in the wellhead.
+
+
+== Design ==
+Optimum design of the casing program decreases the well construction costs, enhances the efficiency of operations and also diminishes the environmental impacts.
+In the planning stages of a well, a drilling engineer, usually with input from geologists and others, will pick strategic depths at which the hole will need to be cased in order for drilling to reach the desired total depth. This decision is often based on subsurface data such as formation pressures and strengths, well integrity, and is balanced against the cost objectives and desired drilling strategy.
+With the casing set depths determined, hole sizes and casing sizes must follow. The hole drilled for each casing string must be large enough to accommodate the casing to be placed inside it, allowing room for cement between the outside of that casing and the hole. Also, subsequent bits that will continue drilling obviously must pass through existing casing strings. Thus, each casing string will have a subsequently smaller diameter. The inside diameter of the final casing string (or penultimate one in some instances of a liner completion) must accommodate the production tubing and associated hardware such as packers, gas lift mandrels and subsurface safety valves.
+Casing design for each size of designed pipes is done by calculating the worst conditions that may be faced during drilling and over the producing life of the well. Mechanical properties such as longitudinal tensile strength, and burst and collapse resistance (calculated considering biaxial effects of axial and hoop stresses), must be sufficient at various depths. Pipe of differing strengths often comprises a long casing string, which typically will have the greatest axial tension and perhaps highest internal burst pressure differentials in the upper parts, and the greatest collapsing loads deeper in the well from external pressure vs lowered internal pressure.
+Casing strings are supported by casing hangers that are set in the wellhead, which later will be topped with the Christmas tree. The lower members of the wellhead usually are installed on top of the first casing string after it has been cemented in place.
+
+
+== Intervals ==
+Typically, a well contains multiple intervals of casing successively placed within the previous casing run. The following casing intervals are typically used in an oil or gas well:
+
+Conductor casing
+Surface casing
+Intermediate casing (optional)
+Production casing
+Production liner
+The conductor casing serves as a support during drilling operations, to flowback returns during drilling and cementing of the surface casing, and to prevent collapse of the loose soil near the surface. It can normally vary from sizes such as 18 to 30 in (460 to 760 mm).
+The purpose of surface casing is to isolate freshwater zones so that they are not contaminated during drilling and completion. Surface casing is the most strictly regulated due to these environmental concerns, which can include regulation of casing depth and cement quality. A typical size of surface casing is 13+3⁄8 inches (340 mm).
+Intermediate casing may be necessary on longer drilling intervals where necessary drilling mud weight to prevent blowouts may cause a hydrostatic pressure that can fracture shallower or deeper formations. Casing placement is selected so that the hydrostatic pressure of the drilling fluid remains at a pressure level that is between formation pore pressures and fracture pressures.
+In order to reduce cost, a liner may be used which extends just above the shoe (bottom) of the previous casing interval and hung off downhole rather than at the surface. It may typically be 7", although many liners match the diameter of the production tubing.
+Few wells actually produce through casing, since producing fluids can corrode steel or form deposits such as asphaltenes or paraffin waxes and the larger diameter can make flow unstable. Production tubing is therefore installed inside the last casing string and the tubing annulus is usually sealed at the bottom of the tubing by a packer. Tubing is easier to remove for maintenance, replacement, or for various types of workover operations. It is significantly lighter than casing and does not require a drilling rig to run in and out of hole; smaller "service rigs" are used for this purpose.
+
+
+== Cementing ==
+Casing that is cemented in place aids the drilling process in several ways:
+
+Prevents contamination of fresh water well zones.
+Prevents unstable upper formations from caving in and sticking the drill string or forming large caverns.
+Provides a strong upper foundation to allow use of high-density drilling fluid to continue drilling deeper.
+Isolates various zones, which may have different pressures or fluids, in the drilled formations from one another.
+Seals off high pressure zones from the surface, minimizing potential for a blowout.
+Prevents fluid loss into or contamination of production zones.
+Provides a smooth internal bore for installing production equipment.
+Cementing is performed by circulating a cement slurry through the inside of the casing and out into the annulus through the casing shoe at the bottom of the casing string. In order to precisely place the cement slurry at a required interval on the outside of the casing, a plug is pumped with a displacement fluid behind the cement slurry column, which "bumps" in the casing shoe and prevents further flow of fluid through the shoe. This bump can be seen at surface as a pressure spike at the cement pump. To prevent the cement from flowing back into the inside of the casing, a float collar above the casing shoe acts as a check valve and prevents fluid from flowing up through the shoe from the annulus.
+
+
+== Casing Wear ==
+A prolonged, recurrent axial and rotational movement within casing would cause wear to the casing interior, with the probability of blowouts, production loss, and other hazardous and costly complications.
+The following conditions contribute to casing wear:
+
+Drill pipe weight
+Mud and additives
+RPM and ROP
+Tool joint coating
+Well path and dogleg
+The following are recommendations for preventative measures to minimize casing wear:
+
+Minimization of dogleg severity and expect real dogleg at least 1.5 times higher than the planned value.
+Usage of casing friendly tool joint materials.
+Minimize rotor speed and use downhole motor.
+Increase ROP.
+Select proper mud type and add lubricants to minimize wear and friction.
+Usage of drill pipe protectors.
+Usage of thick wall casing in the anticipated wear section area.
+Usage of software to reduce risks.
+
+
+== Related string ==
+A slightly different metal string, called production tubing, is often used without cement inside the final casing string of a well to contain production fluids and convey them to the surface from an underground reservoir.
+
+
+== References ==
+
+
+== External links ==
+Cementer Archived February 28, 2017, at the Wayback Machine
+Schlumberger Oilfield Glossary: Casing Archived 2012-07-16 at the Wayback Machine
+How Does Casing Work?

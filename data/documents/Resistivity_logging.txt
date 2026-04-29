@@ -1,0 +1,25 @@
+Title: Resistivity logging
+Source: Wikipedia (CC BY-SA 4.0)
+Topic: Petroleum Engineering
+---
+
+Resistivity logging is a method of well logging that works by characterizing the rock or sediment in a borehole by measuring its electrical resistivity. Resistivity is a fundamental material property which represents how strongly a material opposes the flow of electric current. In these logs, resistivity is measured using four electrical probes to eliminate the resistance of the contact leads. The log must run in holes containing electrically conductive mud or water, i.e., with enough ions present in the drilling fluid.
+Indeed, in the borehole fluids the electrical charge carriers are only ions (cations and anions) present in aqueous solution in the fluid. In the absence of dissolved ions, water is a very poor electrical conductor. Indeed, pure water is very poorly dissociated by its self-ionisation (at 25 °C, pKw = 14, so at pH = 7, [H+] = [OH–] = 10−7 mol/L) and thus water itself does not significantly contribute to conduct electricity in an aqueous solution. The resistivity of pure water at 25 °C is 18 MΩ·cm, or its conductivity (C = 1/R) is 0.055 μS/cm. The electrical charge carriers in aqueous solution are only ions and not electrons as in metals. Most common minerals such as quartz (SiO2) or calcite (CaCO3) found respectively in siliceous and in carbonaceous formations are electrical insulators. In mineral exploration, some minerals are semi-conductors, e.g., hematite (Fe2O3), magnetite (Fe3O4), and chalcopyrite (CuFeS2) and when present in sufficiently large quantities in the ore body can affect the resistivity of the host formation. However, in most common cases (oil and gas drilling, water-well drilling), the solid mineral phases do not contribute to the electrical conductivity: electricity is carried by ions in solution in the pore water or in the water filling the cracks of hard rocks. If the pores of the rock are not saturated by water but also contains gases such as air above the water table or gaseous hydrocarbons like methane and light alkanes, the conductivity also drops and resistivity increases.
+Resistivity logging is used in mineral exploration (for example for exploration for iron and copper ore bodies), geological exploration (deep geological disposal, geothermal wells), and water-well drilling. It is an indispensable tool for formation evaluation in oil- and gas-well drilling. As mentioned here above, most rock materials are essentially electrical insulators, while their enclosed fluids are electrical conductors. In contrast to aqueous solutions containing conducting ions, hydrocarbon fluids are almost infinitely resistive because they do not contain electrical charge carriers. Indeed, hydrocarbons does not dissociate in ions because of the covalent nature of their chemical bonds. When a formation is porous and contains salty water, the overall resistivity will be low. When the formation contains hydrocarbon, or has a very low porosity, its resistivity will be high. High resistivity values may indicate a hydrocarbon bearing formation.
+In geological exploration and water-well drilling, resistivity measurements also allows to distinguish the contrast between clay aquitard and sandy aquifer because of their difference in porosity, pore water conductivity and of the cations (Na+, K+, Ca2+ and Mg2+) present in the interlayer space of clay minerals whose external electrical double layer is also much more developed than that of quartz.
+Usually while drilling, drilling fluids invade the formation, changes in the resistivity are measured by the tool in the invaded zone.  For this reason, several resistivity tools with different investigation lengths are used to measure the formation resistivity. If water based mud is used and oil is displaced, "deeper" resistivity logs (or those of the "intact zone" sufficiently away from the borehole disturbed zone) will show lower conductivity than the invaded zone. If oil based mud is used and water is displaced, deeper logs will show higher conductivity than the invaded zone. This provides not only an indication of the fluids present, but also, at least qualitatively, whether the formation is permeable or not.
+
+
+== See also ==
+Archie's law – Relationship between the electrical conductivity of a rock and its porosity
+Drilling mud – Aid for drilling boreholes into the ground
+Formation evaluation – Assessing if boreholes drilled for oil or gas are able to deliver a profitable production
+Electric logs (in: Formation evaluation)
+Well logging – Detailed record of borehole contents
+
+
+== References ==
+
+
+== Further reading ==
+Apparao, A. (1997). Developments in geoelectrical methods. Taylor & Francis.

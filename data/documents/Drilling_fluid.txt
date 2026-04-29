@@ -1,0 +1,242 @@
+Title: Drilling fluid
+Source: Wikipedia (CC BY-SA 4.0)
+Topic: Petroleum Engineering
+---
+
+In geotechnical engineering, drilling fluid, also known as drilling mud or drilling slurry, is used to aid the drilling of  boreholes into the earth. Used while drilling oil and natural gas wells and on exploration drilling rigs, drilling fluids are also used for much simpler boreholes, such as water wells. 
+The two main categories of drilling fluids are water-based muds (WBs), which can be dispersed and non-dispersed, and non-aqueous muds, usually called oil-based muds (OBs). Along with their formatives, these are used along with appropriate polymer and clay additives for drilling various oil and gas formations. Gaseous drilling fluids, typically utilizing air or natural gas, sometimes with the addition of foaming agents, can be used when downhole conditions permit.
+The main functions of liquid drilling fluids are to exert hydrostatic pressure to prevent formation fluids from entering into the well bore, and carrying out drill cuttings as well as suspending the drill cuttings while drilling is paused such as when the drilling assembly is brought in and out of the hole. The drilling fluid also keeps the drill bit cool and clears out cuttings beneath it during drilling. The drilling fluid used for a particular job is selected to avoid formation damage and to limit corrosion.
+
+
+== Composition ==
+Liquid fluids are composed of natural and synthetic material in a mixed state,   which can be of two types: 
+
+Aqueous; usually with substances added that control viscosity, along with lubricants, corrosion inhibitors, salts, and pH-control agents.
+Oil; which could be usually using hydrocarbon oil,
+Water-based drilling mud most commonly consists of bentonite clay (gel) with additives such as barium sulfate (baryte) to increase density, and calcium carbonate (chalk) or hematite. Various thickeners are used to influence the viscosity of the fluid, e.g. xanthan gum, guar gum, glycol, carboxymethyl cellulose(CMC), polyanionic cellulose (PAC), or starch. In turn, deflocculants are used to reduce viscosity of clay-based muds; anionic polyelectrolytes (e.g. acrylates, polyphosphates, lignosulfonates (Lig) or tannic acid derivates such as Quebracho) are frequently used. Red mud was the name for a Quebracho-based mixture, named after the color of the red tannic acid salts; it was commonly used in the 1940s to 1950s but was made obsolete when lignosulfonates became available. Some other common additives include lubricants, shale inhibitors, fluid loss additives(CMC and PAC) (to control loss of drilling fluids into permeable formations). A weighting agent such as baryte is added to increase the overall density of the drilling fluid so that sufficient bottom hole pressure can be maintained thereby preventing an unwanted (and often dangerous) influx of formation fluids.
+
+
+=== Types ===
+Source:
+Many types of drilling fluids are used on a day-to-day basis. Some wells require different types to be used in different parts of the hole, or that some types be used in combination with others. The various types of fluid generally fall into broad categories:
+
+Air: Compressed air is pumped either down the bore hole's annular space or down the drill string itself.
+Air/water: Air with water added to increase viscosity, flush the hole, provide more cooling, and/or to control dust.
+Air/polymer: A specially formulated chemical, typically a type of polymer, is added to the water and air mixture to create specific conditions. A foaming agent is a good example of a polymer.
+Water: Water is sometimes used by itself. In offshore drilling, seawater is typically used while drilling the top section of the hole.
+Water-based mud (WBM): Most water-based mud systems begin with water, then clays and other chemicals are added to create a homogeneous blend with viscosity between chocolate milk and a malt. The clay is usually a combination of native clays that are suspended in the fluid while drilling, or specific types of clay processed and sold as additives for the WBM system. The most common type is bentonite, called "gel" in the oilfield. The name likely refers to the fluid viscosity as very thin and free-flowing (like chocolate milk) while being pumped, but when pumping is stopped, the static fluid congeals to a "gel" that resists flow. When adequate pumping force is applied to "break the gel," flow resumes and the fluid returns to its free-flowing state. Many other chemicals (e.g. potassium formate) are added to a WBM system to achieve desired effects, including: viscosity control, shale stability, enhance drilling rate of penetration, and cooling and lubricating of equipment.
+Oil-based mud (OBM): Oil-based mud has a petroleum-based fluid such as diesel fuel. Oil-based muds are used for increased lubricity, enhanced shale inhibition, and greater cleaning abilities with less viscosity. Oil-based muds also withstand greater heat without breaking down. The use of oil-based muds has special considerations of cost, environmental concerns such as disposal of cuttings in an appropriate place, and the exploratory disadvantages of using oil-based mud, especially in wildcat wells. Using an oil-based mud interferes with the geochemical analysis of cuttings and cores and with the determination of API gravity because the base fluid cannot be distinguished from oil that is returned from the formation.
+Synthetic-based fluid (SBM) (otherwise known as low-toxicity oil-based mud or LTOBM): Synthetic-based fluid is a mud in which the base fluid is a synthetic oil. This is most often used on offshore rigs because it has the properties of an oil-based mud, but the toxicity of the fluid fumes are much less. This is important when the drilling crew works with the fluid in an enclosed space such as an offshore drilling rig. Synthetic-based fluid poses the same environmental and analysis problems as oil-based fluid.
+On a drilling rig, mud is pumped from the mud pits through the drill string, where it jets out of nozzles on the drill bit, thus clearing away cuttings and cooling the drill bit in the process. The mud then carries the crushed or cut rock ("cuttings") up the annular space ("annulus") between the drill string and the sides of the hole being drilled, up through the surface casing, where it emerges from the top. Cuttings are then filtered out with either a shale shaker or the newer shale conveyor technology, and the mud returns to the mud pits. The mud pits allow the drilled "fines" to settle and the mud to be treated by adding chemicals and other substances.
+
+The returning mud may contain natural gases or other flammable materials which will collect in and around the shale shaker/conveyor area or in other work areas. Because of the risk of a fire or an explosion, special monitoring sensors and explosion-proof certified equipment are commonly installed, and workers are trained in safety precautions. The mud is then pumped back down the hole and further re-circulated. The mud properties are tested, with periodic treating in the mud pits to ensure it has desired properties to optimize drilling efficiency and provide borehole stability.
+
+
+== Function ==
+The functions of a drilling mud can be summarized as follows:
+
+
+=== Remove well cuttings ===
+
+Drilling fluid carries the rock excavated by the drill bit up to the surface. Its ability to do so depends on cutting size, shape, and density, and speed of fluid traveling up the well (annular velocity). These considerations are analogous to the ability of a stream to carry sediment. Large sand grains in a slow-moving stream settle to the stream bed, while small sand grains in a fast-moving stream are carried along with the water. The mud viscosity and gel strength are important properties, as cuttings will settle to the bottom of the well if the viscosity is too low.
+
+Other properties include:
+
+Most drilling muds are thixotropic (viscosity increases when static). This characteristic keeps the cuttings suspended when the mud is not flowing, for example, when replacing the drill bit.
+Fluids that have shear thinning and elevated viscosities are efficient for hole cleaning.
+Higher annular velocity improves cutting transport. Transport ratio (transport velocity / lowest annular velocity) should be at least 50%.
+High-density fluids may clean holes adequately even with lower annular velocities (by increasing the buoyancy force acting on cuttings).
+Higher rotary drill-string speeds introduce a circular component to the annular flow path. This helical flow around the drill string causes drill cuttings near the wall, where poor hole cleaning conditions occur, to move into higher transport regions of the annulus. Increased rotation speed is one of the best methods for increasing hole cleaning in high-angle and horizontal wells.
+
+
+=== Suspend and release cuttings ===
+One of the functions of drilling mud is to carry cuttings out of the hole.
+Source:
+
+Drilling mud must suspend drill cuttings and weight materials under a wide range of conditions.
+Drill cuttings that settle can cause bridges and fill, which can cause stuck pipe and lost circulation.
+Heavy material that settles is referred to as sag, which causes a wide variation in the density of well fluid. This more frequently occurs in high-angle and hot wells.
+High concentrations of drill solids are detrimental to drilling efficiency because they increase mud weight and viscosity, which in turn increases maintenance costs and increased dilution.
+Drill cuttings that are suspended must be balanced with properties in cutting removal by  solids control equipment.
+For effective solids controls, drill solids must be removed from mud on the 1st circulation from the well. If re-circulated, cuttings break into smaller pieces and are more difficult to remove.
+A test must be conducted to compare the solids content of mud at the flow line and suction pit (to determine whether cuttings are being removed).
+
+
+=== Control formation pressures ===
+If formation pressure increases, mud density should be increased to balance pressure and keep the wellbore stable. The most common weighting material is baryte. Unbalanced formation pressure will cause an unexpected influx (also known as a kick) of formation fluids into the wellbore possibly leading to a blowout from pressurized formation fluid.
+Hydrostatic pressure = density of drilling fluid * true vertical depth * acceleration of gravity. If hydrostatic pressure is greater than or equal to formation pressure, formation fluid will not flow into the wellbore.
+Well being under control means no uncontrollable flow of formation fluids into the wellbore.
+Hydrostatic pressure also controls the stress from tectonic forces, which can render wellbores unstable even when formation fluid pressure is balanced.
+If formation pressures exposed in the open borehole are subnormal, air, gas, mist, stiff foam, or low-density mud (oil base) can be used.
+In practice, mud density should be limited to the minimum necessary for well control and wellbore stability. If too great it may fracture the formation.
+
+
+=== Seal permeable formations ===
+Mud column pressure must exceed formation pressure; in this condition mud filtrate invades permeable formations and a filter cake of mud solids is deposited on the wellbore wall.
+Mud is designed to deposit thin, low permeability filter cake to limit the invasion.
+Problems can occur if a thick filter cake is formed: tight hole conditions, poor log quality, stuck pipe, lost circulation and formation damage.
+In highly permeable formations with large pore throats, whole mud may invade the formation, depending on mud solids size:
+Use bridging agents to block large openings so mud solids can form a seal.
+For effectiveness, bridging agents must be over the half size of pore spaces / fractures.
+Bridging agents include calcium carbonate and ground cellulose.
+Depending on the mud system in use, a number of additives can improve the filter cake (e.g. bentonite, natural & synthetic polymer, asphalt and gilsonite).
+
+
+=== Maintain wellbore stability ===
+Chemical composition and mud properties must combine to provide a stable wellbore. The density of the mud must be within the necessary range to balance the mechanical forces.
+In high-pressure, high-temperature (HPHT) wells, drilling fluid selection and management are critical to maintaining wellbore integrity and preventing instability under extreme downhole conditions.
+Wellbore instability = sloughing formations, which can cause tight hole conditions, bridges and fill on trips (same symptoms indicate hole cleaning problems).
+Wellbore stability = hole maintains size and cylindrical shape.
+If the hole is enlarged, it becomes weak and difficult to stabilize, and problems such as low annular velocities, poor hole cleaning, solids loading and poor formation evaluation may result.
+In sand and sandstones formations, hole enlargement can occur from mechanical actions (hydraulic forces & nozzles velocities). Formation damage is reduced by a conservative hydraulics system. A good quality filter cake containing bentonite is known to limit bore hole enlargement.
+In shales when using water-based mud, chemical differences can cause interactions between mud & shale that lead to weakening of the native rock. Highly fractured, dry, brittle shales can be extremely unstable, leading to mechanical problems.
+Various chemical inhibitors can control mud/shale interactions (calcium, potassium, salt, polymers, asphalt, glycols and oil – best for water-sensitive formations)
+Oil- (and synthetic-oil-) based drilling fluids can be used to drill water-sensitive shales in areas with difficult drilling conditions.
+To add inhibition, emulsified brine phase (calcium chloride) drilling fluids are used to reduce water activity and creates osmotic forces to prevent adsorption of water by shales.
+
+
+=== Minimizing formation damage ===
+Skin damage or any reduction in natural formation porosity and permeability (washout) constitutes formation damage
+skin damage is the accumulation of residuals on the perforations and that causes a pressure drop through them.
+Most common damage;
+Mud or drill solids invade the formation matrix, reducing porosity and causing skin effect
+Swelling of formation clays within the reservoir, reduced permeability
+Precipitation of solids due to mixing of mud filtrate and formations fluids resulting in the precipitation of insoluble salts
+Mud filtrate and formation fluids form an emulsion, reducing reservoir porosity
+Specially designed drill-in fluids or workover and completion fluids, minimize formation damage.
+
+
+=== Cool, lubricate, and support the bit and drilling assembly ===
+Heat is generated from mechanical and hydraulic forces at the bit and when the drill string rotates and rubs against casing and wellbore.
+Cool and transfer heat away from source and lower to temperature than bottom hole.
+If not, the bit, drill string and mud motors would fail more rapidly.
+Lubrication based on the coefficient of friction. ("Coefficient of friction" is how much friction on side of wellbore and collar size or drill pipe size to pull stuck pipe) Oil- and synthetic-based mud generally lubricate better than water-based mud (but the latter can be improved by the addition of lubricants).
+Amount of lubrication provided by drilling fluid depends on type & quantity of drill solids and weight materials + chemical composition of system.
+Poor lubrication causes high torque and drag, heat checking of the drill string, but these problems are also caused by key seating, poor hole cleaning and incorrect bottom hole assemblies design.
+Drilling fluids also support portion of drill-string or casing through buoyancy. Suspend in drilling fluid, buoyed by force equal to weight (or density) of mud, so reducing hook load at derrick.
+Weight that derrick can support limited by mechanical capacity, increase depth so weight of drill-string and casing increase.
+When running long, heavy string or casing, buoyancy possible to run casing strings whose weight exceed a rig's hook load capacity.
+
+
+=== Transmit hydraulic energy to tools and bit ===
+Hydraulic energy provides power to mud motor for bit rotation and for MWD (measurement while drilling) and LWD (logging while drilling) tools. Hydraulic programs base on bit nozzles sizing for available mud pump horsepower to optimize jet impact at bottom well.
+Limited to:
+Pump power
+Pressure loss inside drillstring
+Maximum allowable surface pressure
+Optimum flow rate
+Drill string pressure loses higher in fluids of higher densities, plastic viscosities and solids.
+Low solids, shear thinning drilling fluids such as polymer fluids, more efficient in transmit hydraulic energy.
+Depth can be extended by controlling mud properties.
+Transfer information from MWD & LWD to surface by pressure pulse.
+
+
+=== Ensure adequate formation evaluation ===
+Chemical and physical mud properties as well as wellbore conditions after drilling affect formation evaluation.
+Mud loggers examine cuttings for mineral composition, visual sign of hydrocarbons and recorded mud logs of lithology, ROP, gas detection or geological parameters.
+Wireline logging measure – electrical, sonic, nuclear and magnetic resonance.
+Potential productive zone are isolated and performed formation testing and drill stem testing.
+Mud helps not to disperse of cuttings and also improve cutting transport for mud loggers determine the depth of the cuttings originated.
+Oil-based mud, lubricants, asphalts will mask hydrocarbon indications.
+So mud for drilling core selected base on type of evaluation to be performed (many coring operations specify a bland mud with minimum of additives).
+
+
+=== Control corrosion (in acceptable level) ===
+Drill-string and casing in continuous contact with drilling fluid may cause a form of corrosion.
+Dissolved gases (oxygen, carbon dioxide, hydrogen sulfide) cause serious corrosion problems;
+Cause rapid, catastrophic failure
+May be deadly to humans after a short period of time
+Low pH (acidic) aggravates corrosion, so use corrosion coupons to monitor corrosion type, rates and to tell correct chemical inhibitor is used in correct amount.  A corrosion coupon is a small piece of metal exposed to the process so to evaluate the effect the corrosive conditions would have on other equipment of similar composition.
+Mud aeration, foaming and other O2 trapped conditions cause corrosion damage in short period time.
+When drilling in high H2S, elevated the pH fluids + sulfide scavenging chemical (zinc).
+
+
+=== Facilitate cementing and completion ===
+Cementing is critical to effective zone and well completion.
+During casing run, mud must remain fluid and minimize pressure surges so fracture induced lost circulation does not occur.
+Temperature of water used for cement must be within tolerance of cementers performing task, usually 70 degrees, most notably in winter conditions.
+Mud should have thin, slick filter cake, with minimal solids in filter cake, wellbore with minimal cuttings, caving or bridges will prevent a good casing run to bottom. Circulate well bore until clean.
+To cement and completion operation properly, mud displace by flushes and cement. For effectiveness;
+Hole near gauges, use proper hole cleaning techniques, pumping sweeps at TD, and perform wiper trip to shoe.
+Mud low viscosity, mud parameters should be tolerant of formations being drilled, and drilling fluid composition, turbulent flow – low viscosity high pump rate, laminar flow – high viscosity, high pump rate.
+Mud non-progressive gel strength
+
+
+== Negative environmental consequences ==
+
+Drilling mud is, in varying degrees, toxic. It is also difficult and expensive to dispose of it in an environmentally friendly manner.
+A Vanity Fair article described the conditions at Lago Agrio, a large oil field in Ecuador where drillers were effectively unregulated.
+Water-based drilling fluid has very little toxicity, made from water, bentonite and baryte, all clay from mining operations, usually found in Wyoming and in Lunde, Telemark.
+There are specific chemicals that can be used in water-based drilling fluids that alone can be corrosive and toxic, such as hydrochloric acid. However,
+when mixed into water-based drilling fluids, hydrochloric acid only decreases the pH of the water to a more manageable level.
+Caustic (sodium hydroxide), anhydrous lime, soda ash, bentonite, baryte and polymers are the most common chemicals used in water-based drilling fluids. 
+Oil Base Mud and synthetic drilling fluids can contain high levels of benzene, and other chemicals
+Most common chemicals added to OBM Muds:
+
+Baryte
+Bentonite
+Diesel
+Emulsifiers
+Water
+
+
+== Factors influencing performance ==
+Some factors affecting drilling fluid performance are:
+
+Fluid Rheology
+The change of drilling fluid viscosity
+The change of drilling fluid density
+The change of mud pH
+Corrosion or fatigue of the drill string
+Thermal stability of the drilling fluid
+Differential sticking
+
+
+== Classification ==
+They are classified based on their fluid phase, alkalinity, dispersion and the type of chemicals used.
+
+
+=== Dispersed systems ===
+Freshwater mud: Low pH mud (7.0–9.5) that includes spud, bentonite, natural, phosphate treated muds, organic mud and organic colloid treated mud. high pH mud example alkaline tannate treated muds are above 9.5 in pH.
+Water based drilling mud that represses hydration and dispersion of clay.Water-based muds are the most commonly used type of drilling fluids. They are made from water and various additives including clays, polymers, and weighing agents. WBM is primarily used in shallow wells and is effective in preventing the swelling and disintegrating of the shale formation. – There are 4 types: high pH lime muds, low pH gypsum, seawater and saturated salt water muds.
+
+
+=== Non-dispersed systems ===
+Low solids mud: These muds contain less than 3–6% solids by volume and weight less than 9.5 lbs/gal. Most muds of this type are water-based with varying quantities of bentonite and a polymer.
+Emulsions: The two types used are oil in water (oil emulsion muds) and water in oil (invert oil emulsion muds).
+Oil based mud: Oil based muds contain oil as the continuous phase and water as a contaminant, and not an element in the design of the mud. They typically contain less than 5% (by volume) water. Oil-based muds are usually a mixture of diesel fuel and asphalt, however can be based on produced crude oil and mud
+Synthetic-based Muds (SBM): Synthetic-based muds are made from synthetic fluids and are used in deep wells with extreme temperatures. SBM has excellent lubricating properties and is less toxic than OBM.
+Air and Foam-based Mud: Air and foam-based muds use air or nitrogen to create a foam that carries the drill cuttings to the surface. These types of drilling fluids are used in wells where the formation is highly porous and prone to caving.
+High-density Muds:High-density muds are used in wells with high pressures and temperatures. They are made from barite and other weighing agents and are used to control the pressure in the well and prevent blowouts.
+Non-damaging Muds: Non-damaging muds are designed to prevent damage to the formation being drilled. They are typically used in wells where the formation is susceptible to damage from drilling mud
+
+
+== Mud engineer ==
+
+"Mud engineer" is the name given to an oil field service company individual who is charged with maintaining a drilling fluid or completion fluid system on an oil and/or gas drilling rig.   This individual typically works for the company selling the chemicals for the job and is specifically trained with those products, though independent mud engineers are still common. The role of the mud engineer, or more properly drilling fluids engineer, is critical to the entire drilling operation because even small problems with mud can stop the whole operations on rig. The internationally accepted shift pattern at off-shore drilling operations is personnel (including mud engineers) work on a 28-day shift pattern, where they work for 28 continuous days and rest the following 28 days. In Europe this is more commonly a 21-day shift pattern.
+In offshore drilling, with new technology and high total day costs, wells are being drilled extremely fast. Having two mud engineers makes economic sense to prevent down time due to drilling fluid difficulties. Two mud engineers also reduce insurance costs to oil companies for environmental damage that oil companies are responsible for during drilling and production. A senior mud engineer typically works in the day, and a junior mud engineer at night.
+The cost of the drilling fluid is typically about 10% (may vary greatly) of the total cost of drilling a well, and demands competent mud engineers. Large cost savings result when the mud engineer and fluid performs adequately.
+The mud engineer is not to be confused with mudloggers, service personnel who monitor gas from the mud and collect well bore samples.
+
+
+== Compliance engineer ==
+The compliance engineer is the most common name for a relatively new position in the oil field, emerging around 2002 due to new environmental regulations on synthetic mud in the United States. Previously, synthetic mud was regulated the same as water-based mud and could be disposed of in offshore waters due to low toxicity to marine organisms. New regulations restrict the amount of synthetic oil that can be discharged. These new regulations created a significant burden in the form of tests needed to determine the "ROC" or retention on cuttings, sampling to determine the percentage of crude oil in the drilling mud, and extensive documentation. No type of oil/synthetic based mud (or drilled cuttings contaminated with OBM/SBM) may be dumped in the North Sea. Contaminated mud must either be shipped back to shore in skips or processed on the rigs.
+A new monthly toxicity test is also now performed to determine sediment toxicity, using the amphipod Leptocheirus plumulosus. Various concentrations of the drilling mud are added to the environment of captive L. plumulosus to determine its effect on the animals.  The test is controversial for two reasons:
+
+These animals are not native to many of the areas regulated by them, including the Gulf of Mexico
+The test has a very large standard deviation, and samples that fail badly may pass easily upon retesting
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+Okoro, Emmanuel Emeka; Ochonma, Chidiebere; Omeje, Maxwell; Sanni, Samuel E.; Emetere, Moses E.; Orodu, Kale B.; Igwilo, Kevin C. (17 Dec 2019). "Radiological and toxicity risk exposures of oil based mud: health implication on drilling crew in Niger Delta". Environmental Science and Pollution Research. 27 (5). Springer Science and Business Media LLC: 5387–5397. doi:10.1007/s11356-019-07222-3. ISSN 0944-1344. PMID 31848949. S2CID 209380825.
+ASME Shale Shaker Committee (2005). The Drilling Fluids Processing Handbook. ISBN 0-7506-7775-9.
+Kate Van Dyke (1998). Drilling Fluids, Mud Pumps, and Conditioning Equipment.
+G. V. Chilingarian & P. Vorabutr (1983). Drilling and Drilling Fluids.
+G. R. Gray, H. C. H. Darley, & W. F. Rogers (1980). The Composition and Properties of Oil Well Drilling Fluids.
+DCS Shale Shaker SUPPLIER. The Drilling Fluids cleaning system.

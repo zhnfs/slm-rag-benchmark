@@ -1,0 +1,45 @@
+Title: Reservoir engineering
+Source: Wikipedia (CC BY-SA 4.0)
+Topic: Petroleum Engineering
+---
+
+Reservoir engineering is a branch of petroleum engineering that applies scientific principles to the fluid flow through a porous medium during the development and production of oil and gas reservoirs so as to obtain a high economic recovery. The working tools of the reservoir engineer are subsurface geology, applied mathematics, and the basic laws of physics and chemistry governing the behavior of liquid and vapor phases of crude oil, natural gas, and water in reservoir rock. Of particular interest to reservoir engineers is generating accurate reserves estimates for use in financial reporting to the SEC and other regulatory bodies. Other job responsibilities include numerical reservoir modeling, production forecasting, well testing, well drilling and workover planning, economic modeling, and PVT analysis of reservoir fluids. Reservoir engineers also play a critical role in field development planning, recommending appropriate and cost-effective reservoir depletion schemes such as waterflooding or gas injection to maximize hydrocarbon recovery. Due to legislative changes in many hydrocarbon-producing countries, they are also involved in the design and implementation of carbon sequestration projects in order to minimise the emission of greenhouse gases.
+
+
+== Types ==
+Reservoir engineers often specialize in two areas:
+
+Surveillance engineering, i.e. monitoring of existing fields and optimization of production and injection rates.  Surveillance engineers typically use analytical and empirical techniques to perform their work, including decline curve analysis, material balance modeling, and inflow/outflow analysis.
+Dynamic modeling, i.e. the conduct of reservoir simulation studies to determine optimal development plans for oil and gas reservoirs. Also, reservoir engineers perform and integrate well tests into their data for reservoirs in geothermal drilling.
+The dynamic model combines the static model, pressure- and saturation-dependent properties, well locations and geometries, as well as the facilities layout to calculate the pressure/saturation distribution into the reservoir, and the production profiles vs. time.
+
+
+== See also ==
+Enhanced oil recovery
+Flow Zone Unit
+Fluid dynamics
+Gas/oil ratio
+Geothermal energy
+Petroleum
+Petroleum engineering
+Petroleum geology
+Reservoir simulation
+Reservoir modelling
+
+
+== Notes ==
+
+
+== References ==
+Craft, B.C. & Hawkins, M. Revised by Terry, R.E. 1990 "Applied Petroleum Reservoir Engineering" Second Edition (Prentice Hall).
+Dake, L.P., 1978, "Fundamentals of Reservoir Engineering" (Elsevier)
+Frick, Thomas C. 1962 "Petroleum Production Handbook, Vol II" (Society of Petroleum Engineers).
+Slider, H.C. 1976 "Practical Petroleum Reservoir Engineering Methods" (The Petroleum Publishing Company).
+Charles R. Smith, G. W. Tracy, R. Lance Farrar. 1999 "Applied Reservoir Engineering" (Oil & Gas Consultants International)
+
+
+== External links ==
+Society of Petroleum Engineers
+Defining Reservoir Engineering
+Shaping the Way for a Better Future
+Energy Regulator Engineering

@@ -1,0 +1,22 @@
+Title: Perforation (oil well)
+Source: Wikipedia (CC BY-SA 4.0)
+Topic: Petroleum Engineering
+---
+
+A perforation in the context of oil wells refers to a hole punched in the casing or liner of an oil well to connect it to the reservoir. It creates a channel between the pay zone and the wellbore to cause oil and gas to flow to the wellbore easily. In cased hole completions, the well will be drilled down past the section of the formation desired for production and will have casing or a liner run in separating the formation from the well bore. The final stage of the completion will involve running in perforating guns, a string of shaped charges, down to the desired depth and firing them to perforate the casing or liner. A typical perforating gun can carry many dozens of explosive charges.
+Commonly, perforation guns are run on E-line as it is traditional to use electrical signals from the surface to fire the guns. In more highly deviated wells, coiled tubing may be used. Newer technologies allow the guns to be run on slickline. Modern slickline technology embeds fiber-optic lines that can transmit two-way data on real-time temperature, pressure and seismic responses along the length of the slickline. This information allows very precise operations of various down-hole tools, including perforation guns.
+The benefit of this strategy is greater control of the well. Casing the bottom of the hole allows the well to be completed without having to worry about reservoir fluids. It also allows precise selection of where in the formation production will be and to be able to seal off perforations, which are no longer useful or counterproductive, through cementing or straddling.
+The disadvantage is that perforating can lead to "skin damage", where debris from the perforations can hinder the productivity of the well. In order to mitigate this, perforating is commonly done underbalanced (lower pressure in the well bore than in the formation) as the lower well bore pressure will cause a surge of fluids into the well at the point of perforating, hopefully carrying the debris with it. Other methods of stimulation such as acidizing and proppant fracturing are often required to overcome this damage and bring the well up to its full potential.
+Casing and perforating as a method of completion is commonplace nowadays, though in some unconsolidated formations prone to production of sand (BP Harding as an example), open hole completions using only sandscreens may be the preferred choice.
+Oil well perforation may be classified as one of two types: overbalanced or underbalanced perforating. Overbalanced perforating is normally carried out with the help of perforating guns or hollow carriers. In overbalanced perforation the weight of the well-bore column is more than the reservoir pressure, thus it normally ensures that the Well does not start flowing oil or gas immediately after perforation. However, it may have the effect of damaging the formation due to forced entry of well-bore fluid (mud) into the reservoir.
+
+
+== References ==
+
+Brad Hansen, Devon Energy Corporation. "Casing Perforating Overview". 2011.
+
+
+== External links ==
+Defining Perforating
+An example of no debris perforation technology from Dynawell, Germany
+A video demonstration of oil well perforation with the use of reactive shaped charges.

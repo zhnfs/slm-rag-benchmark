@@ -1,0 +1,40 @@
+Title: Drill bit (well)
+Source: Wikipedia (CC BY-SA 4.0)
+Topic: Petroleum Engineering
+---
+
+In the oil and gas industry, a drill bit is a tool designed to produce a generally cylindrical hole (wellbore) in the Earth’s crust by the rotary drilling method for the discovery and extraction of hydrocarbons such as crude oil and natural gas.  This type of tool is alternately referred to as a rock bit, or simply a bit.  The hole diameter produced by drill bits is quite small, from about 3.5 inches (8.9 cm) to 30 inches (76 cm), compared to the depth of the hole, which can range from 1,000 feet (300 m) to more than 30,000 feet (9,100 m).  Subsurface formations are broken apart mechanically by cutting elements of the bit by scraping, grinding or localized compressive fracturing. The cuttings produced by the bit are most typically removed from the wellbore and continuously returned to the surface by the method of direct circulation.
+
+
+== Types of drill bits ==
+Drill bits are broadly classified into two main types according to their primary cutting mechanism.  Rolling cutter bits drill largely by fracturing or crushing the formation with "tooth"-shaped cutting elements on two or more cone-shaped elements that roll across the face of the borehole as the bit is rotated.  Fixed cutter bits employ a set of blades with very hard cutting elements, most commonly natural or synthetic diamond, to remove material by scraping or grinding action as the bit is rotated.
+
+
+=== Rolling cutter bits ===
+Modern commercial rolling cutter bits usually employ three cones to contain the cutting elements, although two cone or (rarely) four cone arrangements are sometimes seen. These bits mainly fall into two classes depending on the manufacture of the cutting elements or "teeth".  Steel-tooth bits have cones that have wedge-shaped teeth milled directly in the cone steel itself.  Extremely hard tungsten carbide material is often applied to the surfaces of the teeth by a welding process to improve durability.  Tungsten carbide insert (TCI) bits have shaped teeth of sintered tungsten carbide press-fit into drilled holes in the cones.  Some types of steel-tooth bits also have TCI elements in addition to the milled teeth.  The cones rotate on roller or journal bearings that are usually sealed from the hostile down-hole drilling fluid environment by different arrangements of O-ring or metal face seals.   These bits usually also have pressure compensated grease lubrication systems for the bearings.The first commercially successful rolling cutter drill bit design was disclosed in U.S. patents granted to Howard R. Hughes, Sr. on August 10, 1909, and which led to the creation of what became the Hughes Tool Company.  This bit employed two conical steel rolling elements with milled teeth that engaged the formation, when the device was rotated, to produce the cutting action.  This design represented a significant improvement in drilling performance over the so-called "fish tail" scraper type bits commonly used in rotary drilling at the time, and over the next two decades, rotary drilling with rolling cutter bits largely replaced all other drilling methods in the oilfield.  The significance of the Hughes Two-Cone Drill Bit was recognized on its 100th anniversary when it was designated a Historic Mechanical Engineering Landmark by the American Society of Mechanical Engineers.
+
+
+=== Fixed cutter bits ===
+Fixed cutter bits were the first type of drill bit employed in rotary drilling, and they are mechanically much simpler than rolling cutter bits.  Because the cutting elements do not move relative to the bit, there is no need for bearings or lubrication.  The most common cutting element in use today is the polycrystalline diamond cutter (PDC), a sintered tungsten carbide cylinder with one flat surface coated with a synthetic diamond material.  The cutters are arranged on the blades of the bit in a staggered pattern with the diamond coated cutter surface facing the direction of bit rotation to provide full coverage of the borehole bottom.  Other fixed cutter bits may employ natural industrial-grade diamonds or thermal stable polycrystalline diamond (TSP) cutting elements.
+
+
+=== Hybrid cutter bits ===
+There is also currently available a hybrid type of bit that combines both rolling cutter and fixed cutter elements. These hybrid bits are engineered to leverage the strengths of each mechanism: fixed cutting elements, such as PDC cutters, offer high cutting efficiency in softer to medium formations, while rolling cones provide improved impact resistance and performance in harder or interbedded formations. By combining these technologies, hybrid bits are able to adapt to variable geological conditions within the same run.
+
+
+== Design ==
+Regardless of type, drill bits must satisfy two primary design goals: maximize the rate of penetration (ROP) of the formation and provide a long service life.  The reason for this is a direct consequence of the rotary drilling method.  Modern oilfield drilling operations require substantial capital and operating expense.  It might cost hundreds of thousands of dollars to mobilize the equipment and manpower resources required for drilling to the site.  Once the rig is in place, substantial daily expenses are incurred regardless of whether or not a wellbore is actually being drilled.  Obviously the faster the wellbore reaches required total depth, the lower the overall cost.  Additionally, if the bit fails or wears out, it must be replaced by removing the perhaps several miles of the drill pipe to which it is attached.  During this time, known as a "trip", the depth of the hole is not advanced, but much of the operating costs are still incurred.  For this reason, the effectiveness of a bit is often measured as drilling cost per foot of hole drilled, where a lower number indicates a higher performing bit.  Note that the cost of the bit itself often is a rather small part of the overall drilling cost.
+Within the last couple of decades, a third design goal has become important in some cases.  Many wells today are drilled using directional technology, where the wellbore is intentionally directed from vertical.  For bits to be used in these situations, the ability of the bit to be more easily "steered" during drilling has become a third, possibly driving, primary goal of the design.
+The ability of a bit design to satisfy the two primary goals is constrained by a number of factors, most importantly the wellbore diameter.  Other constraints are dictated by its intended use: formation type (hardness, plasticity, abrasiveness) to be drilled, operating environment at depth (temperature, pressure, corrosiveness), the capabilities of the equipment used in the operation (rotating speed, available weight on bit, pump horsepower) and the angle of the wellbore (vertical, directional, horizontal).  Modern drill bit designs try to balance these constraints to achieve the primary goals.
+Most rolling cutter and fixed cutter drill bits have internal passages to direct drilling fluid, conveyed by the drill pipe from surface pumps, through hydraulic nozzles directed at the bottom of the wellbore to produce high velocity fluid jets that assist in cleaning the old cuttings off the bottom before the next tooth contacts the rock.  Placement of the nozzles, particularly in rolling cutter bits, is also often done to assist in keeping the cutting elements free of cuttings build-up in certain kinds of clay and shale formations.
+
+
+== Gallery ==
+
+
+== See also ==
+List of components of oil drilling rigs
+Well drilling
+
+
+== References ==

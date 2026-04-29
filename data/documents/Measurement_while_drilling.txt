@@ -1,0 +1,117 @@
+Title: Measurement while drilling
+Source: Wikipedia (CC BY-SA 4.0)
+Topic: Petroleum Engineering
+---
+
+Measurement while drilling (MWD) refers to directional-drilling measurements (e.g., for decision support for the wellbore path). Initial attempts to provide MWD date back to the 1920s. A MWD operator measures the trajectory of the hole as it is drilled. MWD tools may be capable of taking directional surveys,  providing information about the conditions at the drill bit, or taking measurements of formation properties. Data may be transmitted in various ways, including by mud pulse telemetry, electromagnetic telemetry, and wired drill pipe. MWD tools may be semi-permanently mounted in a drill collar, or they may be self-contained and wireline retrievable.
+
+
+== Background ==
+A drilling rig is used to create a borehole or well (also called a wellbore) in the earth's sub-surface, for example in order to extract natural resources such as gas or oil. During such drilling, data is acquired from the drilling rig sensors for a range of purposes such as: decision-support to monitor and manage the smooth operation of drilling; to make detailed records (or well log) of the geologic formations penetrated by a borehole; to generate operations statistics and performance benchmarks such that improvements can be identified, and to provide well planners with accurate historical operations-performance data with which to perform statistical risk analysis for future well operations.
+
+
+== Terminology ==
+The terms measurement while drilling (MWD) and logging while drilling (LWD) are not used consistently throughout the industry. Although these terms are related, within the context of this article, the term MWD refers to directional-drilling measurements, e.g. for decision support for the wellbore path, (inclination and azimuth) while LWD refers to measurements concerning the geological formations penetrated while drilling.
+
+
+== History ==
+Initial attempts to provide MWD and LWD date back to the 1920s, and attempts were made prior to WW2 with mud pulse, wired pipe, acoustic and electromagnetics. JJ Arps produced a working directional and resistivity system in the 1960s. Competing work supported by Mobil, Standard Oil and others in the late 1960s and early 1970s led to multiple viable systems by the early 1970s, with the MWD of Teleco Oilfield Services, systems from Schlumberger (Mobil) Halliburton and BakerHughes. However, the main impetus to development was a decision by the Norwegian Petroleum Directorate to mandate the taking of a directional survey in wells offshore Norway every 100 meters. This decision created an environment where MWD technology had an economic advantage over conventional mechanical TOTCO devices, and lead to rapid developments, including LWD, to add gamma and resistivity, by the early 1980s.
+
+
+== Measurement ==
+MWD typically concerns measurement taken of the wellbore (the hole) inclination from vertical, and also magnetic direction from north.  Using basic trigonometry, a three-dimensional plot of the path of the well can be produced.
+Essentially, a MWD operator measures the trajectory of the hole as it is drilled (for example, data updates arrive and are processed every few seconds or faster).  This information is then used to drill in a pre-planned direction into the formation which contains the oil, gas, water or condensate.  Additional measurements can also be taken of natural gamma ray emissions from the rock; this helps broadly to determine what type of rock formation is being drilled, which in turn helps confirm the real-time location of the wellbore in relation to the presence of different types of known formations (by comparison with existing seismic data).
+Density and porosity, rock fluid pressures and other measurements are taken, some using radioactive sources, some using sound, some using electricity, etc.; this can then be used to calculate how freely oil and other fluids can flow through the formation, as well as the volume of hydrocarbons present in the rock and, with other data, the value of the whole reservoir and reservoir reserves.
+An MWD downhole tool is also "high-sided" with the bottom hole drilling assembly, enabling the wellbore to be steered in a chosen direction in 3D space known as directional drilling.  Directional drillers rely on receiving accurate, quality tested data from the MWD operator to allow them to keep the well safely on the planned trajectory.
+Directional survey measurements are taken by three orthogonally mounted accelerometers to measure inclination, and three orthogonally mounted magnetometers which measure direction (azimuth).  Gyroscopic tools may be used to measure azimuth where the survey is measured in a location with disruptive external magnetic influences, inside "casing", for example, where the hole is lined with steel tubulars (tubes).  These sensors, as well as any additional sensors to measure rock formation density, porosity, pressure or other data, are connected, physically and digitally, to a logic unit which converts the information into binary digits which are then transmitted to surface using "mud pulse telemetry" (MPT, a binary coding transmission system used with fluids, such as, combinatorial, Manchester encoding, split-phase, among others).
+This is done by using a downhole "pulser" unit which varies the drilling fluid (mud) pressure inside the drillstring according to the chosen MPT: these pressure fluctuations are decoded and displayed on the surface system computers as wave-forms; voltage outputs from the sensors (raw data); specific measurements of gravity or directions from magnetic north, or in other forms, such as sound waves, nuclear wave-forms, etc.
+Surface (mud) pressure transducers measure these pressure fluctuations (pulses) and pass an analogue voltage signal to surface computers which digitize the signal. Disruptive frequencies are filtered out and the signal is decoded back into its original data form.  For example, a pressure fluctuation of 20psi (or less) can be "picked out" of a total mud system pressure of 3,500psi or more.
+Downhole electrical and mechanical power is provided by downhole turbine systems, which use the energy of the "mud" flow, battery units (lithium), or a combination of both.
+
+
+== Types of information transmitted ==
+
+
+=== Directional information ===
+MWD tools are generally capable of taking directional surveys in real time.  The tool uses accelerometers and magnetometers to measure the inclination and azimuth of the wellbore at that location, and they then transmit that information to the surface.  With a series of surveys; measurements of inclination, azimuth, and tool face, at appropriate intervals (anywhere from every 30 ft (i.e., 10m) to every 500 ft), the location of the wellbore can be calculated.
+By itself, this information allows operators to prove that their well does not cross into areas that they are not authorized to drill.  However, due to the cost of MWD systems, they are not generally used on wells intended to be vertical.  Instead, the wells are surveyed after drilling through the use of multi-shot surveying tools lowered into the drillstring on slickline or wireline.
+The primary use of real-time surveys is in directional drilling.  For the directional driller to steer the well towards a target zone, he must know where the well is going, and what the effects of his steering efforts are.
+MWD tools also generally provide toolface measurements to aid in directional drilling using downhole mud motors with bent subs or bent housings.  For more information on the use of toolface measurements, see Directional drilling.
+
+
+=== Drilling mechanics information ===
+MWD tools can also provide information about the conditions at the drill bit.  This may include:
+
+Rotational speed of the drillstring
+Smoothness of that rotation
+Type and severity of any vibration downhole
+Downhole temperature
+Torque and weight on bit, measured near the drill bit
+Mud flow volume
+
+Use of this information can allow the operator to drill the well more efficiently, and to ensure that the MWD tool and any other downhole tools, such as a mud motor, rotary steerable systems, and LWD tools, are operated within their technical specifications to prevent tool failure.  This information is also valuable to geologists responsible for the well information about the formation which is being drilled.
+
+
+=== Formation properties ===
+Many MWD tools, either on their own, or in conjunction with separate LWD tools, can take measurements of formation properties.  At the surface, these measurements are assembled into a log, similar to one obtained by wireline logging.
+LWD tools are able to measure a suite of geological characteristics including density, porosity, resistivity, acoustic-caliper, inclination at the drill bit (NBI), magnetic resonance and formation pressure.
+The MWD tool allows these measurements to be taken and evaluated while the well is being drilled.  This makes it possible to perform geosteering, or directional drilling based on measured formation properties, rather than simply drilling into a preset target.
+Most MWD tools contain an internal gamma ray sensor to measure natural gamma ray values.  This is because these sensors are compact, inexpensive, reliable, and can take measurements through unmodified drill collars.  Other measurements often require separate LWD tools, which communicate with the MWD tools downhole through internal wires.
+Measurement while drilling can be cost-effective in exploration wells, particularly in areas of the Gulf of Mexico where wells are drilled in areas of salt diapirs.  The resistivity log will detect penetration into salt, and early detection prevents salt damage to bentonite drilling mud.
+
+
+== Data transmission methods ==
+
+
+=== Mud-pulse telemetry ===
+This is the most common method of data transmission used by MWD tools.  Downhole, a valve is operated to restrict the flow of the drilling fluid (mud) according to the digital information to be transmitted.  This creates pressure fluctuations representing the information.  The pressure fluctuations propagate within the drilling fluid towards the surface where they are received from pressure sensors.  On the surface, the received pressure signals are processed by computers to reconstruct the information.  The technology is available in three varieties:  positive pulse, negative pulse, and continuous wave.
+
+Positive pulse
+Positive-pulse tools briefly close and open the valve to restrict the mud flow within the drill pipe.  This produces an increase in pressure that can be seen at surface. The digital information can be encoded in the pressure signal using line codes or pulse-position modulation.
+
+Negative pulse
+Negative pulse tools briefly open and close the valve to release mud from inside the drillpipe out to the annulus.  This produces a decrease in pressure that can be seen at surface. The digital information can be encoded in the pressure signal using line codes or pulse-position modulation.
+Continuous wave
+Continuous wave tools gradually close and open the valve to generate sinusoidal pressure fluctuations within the drilling fluid.  Any digital modulation scheme with a continuous phase can be used to impose the information on a carrier signal.  The most widely used modulation scheme is continuous phase modulation.
+When underbalanced drilling is used, mud pulse telemetry can become unusable.  This is usually because, in order to reduce the equivalent density of the drilling mud, a compressible gas is injected into the mud.  This causes high signal attenuation which drastically reduces the ability of the mud to transmit pulsed data.  In this case, it is necessary to use methods different from mud pulse telemetry, such as electromagnetic waves propagating through the formation or wired drill pipe telemetry.
+Current mud-pulse telemetry technology offers a bandwidths of up to 40 bit/s. The data rate drops with increasing length of the wellbore and is typically as low as 0.5 bit/s – 3.0 bit/s. (bits per second) at a depth of 35,000 ft – 40,000 ft (10668 m – 12192 m).
+Surface to down hole communication is typically done via changes to drilling parameters, i.e., change of the rotation speed of the drill string or change of the mud flow rate.   Making changes to the drilling parameters in order to send information can require interruption of the drilling process, which is unfavorable due to the fact that it causes non-productive time.
+
+
+=== Electromagnetic telemetry ===
+These tools incorporate an electrical insulator in the drillstring, but due to the challenges of receiving data through a good conductor (Salt Water) this approach is largely confined to onshore areas without shallow saline aquifers.  To transmit data, the tool generates an altered voltage difference between the top part (the main drillstring, above the insulator), and the bottom part (the drill bit, and other tools located below the insulator of the MWD tool).  On surface, a wire is attached to the wellhead, which makes contact with the drillpipe at the surface.  A second wire is attached to a rod driven into the ground some distance away.  The wellhead and the ground rod form the two electrodes of a dipole antenna.  The voltage difference between the two electrodes is the receive signal that is decoded by a computer.
+The EM tool generates voltage differences between the drillstring sections in the pattern of very low frequency (2–12 Hz) waves.  The data is imposed on the waves through digital modulation.
+This system generally offers data rates of up to 10 bits per second.  In addition, many of these tools are also capable of receiving data from the surface in the same way, while mud-pulse-based tools rely on changes in the drilling parameters, such as rotation speed of the drillstring or the mud flow rate, to send information from the surface to downhole tools.
+Compared to the broadly used mud-pulse telemetry, electromagnetic pulse telemetry is more effective in specialized situations onshore, such as underbalanced drilling or when using air as drilling fluid. It is capable of transmitting data faster at shallow drilling depths, onshore. However, it generally falls short when drilling exceptionally deep wells, and the signal can lose strength rapidly in certain types of formations, becoming undetectable at only a few thousand feet of depth.
+
+
+=== Wired drill pipe ===
+Several oilfield service companies are currently developing wired drill pipe systems, though wired systems have been trialled for many decades, and the Russians had a system in use in the 1960s. These systems use electrical wires built into every component of the drillstring, which carry electrical signals directly to the surface.  These systems promise data transmission rates orders of magnitude greater than anything possible with mud-pulse or electromagnetic telemetry, both from the downhole tool to the surface and from the surface to the downhole tool.  The IntelliServ wired pipe network, offering data rates upwards of 1 megabit per second, became commercial in 2006. Representatives from BP America, StatoilHydro, Baker Hughes INTEQ, and Schlumberger presented three success stories using this system, both onshore and offshore, at the March 2008 SPE/IADC Drilling Conference in Orlando, Florida. Cost for the drillstring, and the complexity of deployment, make this a niche technology compared to mud pulse.
+
+
+== Retrievable tools ==
+MWD tools may be semi-permanently mounted in a drill collar (only removable at servicing facilities), or they may be self-contained and wireline retrievable.
+Retrievable tools, sometimes known as Slim Tools, can be retrieved and replaced using wireline through the drill string.  This generally allows the tool to be replaced much faster in case of failure, and it allows the tool to be recovered if the drillstring becomes stuck.  Retrievable tools must be much smaller, usually about 2 inches or less in diameter, though their length may be 20 ft (6.1 m) or more.  The small size is necessary for the tool to fit through the drillstring; however, it also limits the tool's capabilities.  For example, slim tools are not capable of sending data at the same rates as collar-mounted tools, and they are also more limited in their ability to communicate with, and supply electrical power to, other LWD tools.
+Collar-mounted tools, also known as fat tools, cannot generally be removed from their drill collar at the wellsite.  If the tool fails, the entire drillstring must be pulled out of the hole to replace it.  However, without the need to fit through the drillstring, the tool can be larger and more capable.
+The ability to retrieve the tool via wireline is often useful.  For example, if the drillstring becomes stuck in the hole, then retrieving the tool via wireline will save a substantial amount of money compared to leaving it in the hole with the stuck portion of the drillstring.  However, there are some limitations on the process.
+
+
+=== Limitations ===
+Retrieving a tool using wireline is not necessarily faster than pulling the tool out of the hole.  For example, if the tool fails at 1,500 ft (460 m) while drilling with a triple rig (able to trip 3 joints of pipe, or about 90 ft (30 m) feet, at a time), then it would generally be faster to pull the tool out of the hole than it would be to rig up wireline and retrieve the tool, especially if the wireline unit must be transported to the rig.
+Wireline retrievals also introduce additional risk.  If the tool becomes detached from the wireline, then it will fall back down the drillstring.  This will generally cause severe damage to the tool and the drillstring components in which it seats, and will require the drillstring to be pulled out of the hole to replace the failed components; this results in a greater total cost than pulling out of the hole in the first place.  The wireline gear might also fail to latch onto the tool, or, in the case of a severe failure, might bring only a portion of the tool to the surface.  This would require the drillstring to be pulled out of the hole to replace the failed components, thus making the wireline operation a waste of time.
+Some tool designers have taken the retrievable 'slim tool' design and applied it to a non-retrievable tool. In this instance, the MWD maintains all of the limitations of a slim tool design (low speed, ability to jam on dust particles, low shock & vibration tolerance) with none of the benefits. Curiously, these tools still have a wireline spearpoint despite being lifted and handled with a plate.
+
+
+== References ==
+
+
+=== Bibliography ===
+Mitchell, Bill (1995). Advanced Oilwell Drilling Engineering Handbook (10th ed.). Lakewood, CO: Mitchell Engineering. ASIN B0006RMYTW. OCLC 46870163.
+
+
+== See also ==
+Geosteering
+
+
+== External links ==
+ Media related to Measurement while drilling at Wikimedia Commons

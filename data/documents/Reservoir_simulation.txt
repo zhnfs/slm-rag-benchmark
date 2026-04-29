@@ -1,0 +1,93 @@
+Title: Reservoir simulation
+Source: Wikipedia (CC BY-SA 4.0)
+Topic: Petroleum Engineering
+---
+
+Reservoir simulation is an area of reservoir engineering in which computer models are used to predict the flow of fluids (typically, oil, water, and gas) through porous media.
+The creation of models of oil fields and the implementation of calculations of field development on their basis is one of the main areas of activity of engineers and oil researchers. On the basis of geological and physical information about the properties of an oil, gas or gas condensate field, consideration of the capabilities of the systems and technologies for its development create quantitative ideas about the development of the field as a whole. A system of interrelated quantitative ideas about the development of a field is a model of its development, which consists of a reservoir model and a model of a field development process. Layer models and processes for extracting oil and gas from them are always clothed in a mathematical form, i.e. characterized by certain mathematical relationships. The main task of the engineer engaged in the calculation of the development of an oil field is to draw up a calculation model based on individual concepts derived from a geological-geophysical study of the field, as well as hydrodynamic studies of wells. Generally speaking, any combination of reservoir models and development process can be used in an oil field development model, as long as this combination most accurately reflects reservoir properties and processes. At the same time, the choice of a particular reservoir model may entail taking into account any additional features of the process model and vice versa.
+The reservoir model should be distinguished from its design scheme, which takes into account only the geometric shape of the reservoir. For example, a reservoir model may be a stratified heterogeneous reservoir. In the design scheme, the reservoir with the same model of it can be represented as a reservoir of a circular shape, a rectilinear reservoir, etc.
+
+
+== Fundamentals ==
+
+Traditional finite difference simulators dominate both theoretical and practical work in reservoir simulation.  Conventional FD simulation is underpinned by three physical concepts: conservation of mass, isothermal fluid phase behavior, and the Darcy approximation of fluid flow through porous media.  Thermal simulators (most commonly used for heavy crude oil applications) add conservation of energy to this list, allowing temperatures to change within the reservoir.
+Numerical techniques and approaches that are common in modern simulators:
+
+Most modern FD simulation programs allow for construction of 3-D representations for use in either full-field or single-well models.  2-D approximations are also used in various conceptual models, such as cross-sections and 2-D radial grid models.
+Theoretically, finite difference models permit discretization of the reservoir using both structured and more complex unstructured grids to accurately represent the geometry of the reservoir. Local grid refinements (a finer grid embedded inside of a coarse grid) are also a feature provided by many simulators to more accurately represent the near wellbore multi-phase flow effects. This "refined meshing" near wellbores is extremely important when analyzing issues such as water and gas coning in reservoirs. Other types of simulators include finite element and streamline.
+Representation of faults and their transmissibilities are advanced features provided in many simulators.  In these models, inter-cell flow transmissibilities must be computed for non-adjacent layers outside of conventional neighbor-to-neighbor connections.
+Natural fracture simulation (known as dual-porosity and dual-permeability) is an advanced feature which model hydrocarbons in tight matrix blocks. Flow occurs from the tight matrix blocks to the more permeable fracture networks that surround the blocks, and to the wells.
+A black-oil simulator does not consider changes in composition of the hydrocarbons as the field is produced, beyond the solution or evolution of dissolved gas in oil, or vaporisation or dropout of condensate from gas.
+A compositional reservoir simulator calculates the PVT properties of oil and gas phases once they have been fitted to an equation of state (EOS), as a mixture of components.  The simulator then uses the fitted EOS equation to dynamically track the movement of both phases and components in the field. This is accomplished at increased cost in setup time, compute time, and computer memory.
+
+The simulation model computes the saturation change of three phases (oil, water and gas) and the pressure of each phase in each cell at each time step.  As a result of declining pressure as in a reservoir depletion study, gas will be liberated from the oil. If pressures increase as a result of water or gas injection, the  gas is re-dissolved into the oil phase.
+A simulation project of a developed field usually requires  "history matching" where historical field production and pressures are compared to calculated values.
+It was realised at an early stage that this was essentially an optimisation process, corresponding to Maximum Likelihood. As such, it can be automated, and there are multiple commercial and software packages designed to accomplish just that.  The model's parameters are adjusted until a reasonable match is achieved on a field basis and usually for all wells.  Commonly, producing water cuts or water-oil ratios and gas-oil ratios are matched.
+
+
+== Other engineering approaches ==
+Without FD models, recovery estimates and oil rates can also be calculated using numerous analytical techniques which include material balance equations (including Havlena–Odeh and Tarner method), fractional flow curve methods (such as the Buckley–Leverett one-dimensional displacement method, the Deitz method for inclined structures, or coning models), and sweep efficiency estimation techniques for water floods and decline curve analysis.  These methods were developed and used prior to traditional or "conventional" simulations tools as computationally inexpensive models based on simple homogeneous reservoir description. Analytical methods generally cannot capture all the details of the given reservoir or process, but are typically numerically fast and at times, sufficiently reliable. In modern reservoir engineering, they are generally used as screening or preliminary evaluation tools.  Analytical methods are especially suitable for potential assets evaluation when the data are limited and the time is critical, or for broad studies as a pre-screening tool if a large number of processes and / or technologies are to be evaluated. The analytical methods are often developed and promoted in the academia or in-house, however commercial packages also exist.
+
+
+== Software ==
+Many programs are available for reservoir simulation. The most well known (in alphabetical order) are:
+Open source:
+
+BOAST – Black Oil Applied Simulation Tool (Boast) simulator is a free software package for reservoir simulation available from the U.S. Department of Energy. Boast is an IMPES numerical simulator (finite-difference implicit pressure-explicit saturation) which finds the pressure distribution for a given time step first then calculates the saturation distribution for the same time step isothermal. The last release was in 1986 but it remains as a good simulator for educational purposes.
+MRST – The MATLAB Reservoir Simulation Toolbox (MRST) is developed by SINTEF Applied Mathematics as a MATLAB® toolbox. The toolbox consists of two main parts: a core offering basic functionality and single and two-phase solvers, and a set of add-on modules offering more advanced models, viewers and solvers. MRST is mainly intended as a toolbox for rapid prototyping and demonstration of new simulation methods and modeling concepts on unstructured grids. Despite this, many of the tools are quite efficient and can be applied to surprisingly large and complex models.
+OPM – The Open Porous Media (OPM) initiative provides a set of open-source tools centered on the simulation of flow and transport of fluids in porous media.
+Commercial:
+
+6X by Ridgeway Kite UK, created by the original developers of Eclipse, is a general purpose simulator supporting black oil, compositional, accelerated by CPUs and GPUs 
+SLB INTERSECT
+SLB ECLIPSE – Originally developed by ECL (Exploration Consultants Limited) and currently owned, developed, marketed and maintained by Digital and Integration (formerly known as GeoQuest), a division of SLB.  The name ECLIPSE originally was an acronym for "ECL´s Implicit Program for Simulation Engineering". Simulators include black oil, compositional, thermal finite-volume, and streamline simulation. Add-on options include local grid refinements, coalbed methane, gas field operations, advanced wells, reservoir coupling, and surface networks.
+REVEAL by PE Limited, a specialised reservoir simulator that enables integrated reservoir and production studies to be performed. The key role of REVEAL is to bridge the gap between reservoir simulation and specialised studies, including thermal fracturing, production chemistry, solid transport, EOR and many others.
+tNavigator by Rock Flow Dynamics, supports black oil, compositional and thermal compositional simulations, and is accelerated by both CPU and GPUs on laptops, workstations and High Performance Computing clusters 
+ECHELON, by Stone Ridge Technology: a fully implicit simulator, the only full GPU accelerated reservoir simulator for black-oil formulations.
+ESTD Co. RETINA Simulation – RETINA Simulation is a Black-Oil and Compositional reservoir simulation software fully developed in Engineering Support and Technology Development Company (ESTD).
+CMG Suite (IMEX, GEM and STARS) – Computer Modelling Group currently offers three simulators: a black oil simulator, called IMEX, a compositional / unconventional simulator called GEM and a thermal and advanced processes simulator called STARS.
+Sensor, by Coats Engineering, is a black oil and compositional reservoir simulator developed beginning in the 1990s by Dr. Keith H. Coats, founder of the commercial reservoir simulation industry (Intercomp Resource and Development, 1968).  Sensor is the last of many reservoir simulators developed by Dr. Coats.
+XXSim  is an EOS based general purpose compositional reservoir simulator with fully implicit formulation. It allows any components to appear and stay in any fluid phases (aqueous, oilec and vapour ).It can be simplified to the conventional or traditional black oil, compositional and thermal modules. It also can be expanded to fully EOS based thermal simulator.
+Tempest MORE  is a reservoir simulator offering black oil, compositional and thermal options.
+ExcSim, a fully implicit 3-phase 2D modified black oil reservoir simulator for the Microsoft Excel platform 
+Landmark Nexus – Nexus is an oil and gas reservoir simulator originally developed as 'Falcon' by Amoco, Los Alamos National Laboratory and Cray Research.  It is currently owned, developed, marketed and maintained by Landmark Graphics, a product service line of Halliburton. Nexus will gradually replace VIP, or Desktop VIP, Landmark's earlier generation of simulator. 
+Plano Research Corporation FlowSim is a fully implicit 3-phase, 3-D, black oil and compositional finite difference reservoir simulator with LGRs, dual porosity dual permeability, and parallel capabilities.
+GrailQuest's ReservoirGrail employs a patented approach called Time Dynamic Volumetric Balancing  to simulate reservoirs during primary and secondary recovery.
+Gemini Solutions Merlin is a fully implicit 3-Phase finite difference reservoir simulator originally developed at the Texaco research department and currently used by the Bureau of Ocean Energy Management and Bureau of Safety and Environmental Enforcement to calculate Worst Case Discharge rates and burst/collapse pressures on casing shoes and blowout preventers.
+Under Palm Trees' DeepSim is a fully implicit, 3-phase, compositional finite difference reservoir simulator for the Android phone and tablet platform.
+TTA/PetroStudies offers a full-fledged black oil simulator, Exodus, with assisted history matching module (Revelations) that can vary porosity/permeability/structure/netpay/initial pressure/saturations/contact depths to match wells' observed rates/cumulatives/pressures. Revelations runs multiple cases on shared network computers. Exotherm offers thermal simulation of SAGD, CSS with discretized wellbore flow up to surface.
+Meera simulation is AI-Physics hybrid reservoir simulation production forecasting tool for operation planning and budgeting by Target Solutions LLC.
+
+
+== Application ==
+Reservoir simulation is ultimately used for forecasting future oil production, decision making, and reservoir management. 
+The state of the art framework for reservoir management is closed-loop field development (CLFD) optimization which utilizes reservoir simulation (together with geostatistics, data assimilation, and selection of representative models) for optimal reservoir operations.
+
+
+== Notable people ==
+Kamy Sepehrnoori
+
+
+== See also ==
+Black-oil equations
+Reservoir modeling
+Geological modelling
+Petroleum engineering
+Computer simulation
+Seismic to simulation
+
+
+== References ==
+Aziz, K. and Settari, A., Petroleum Reservoir Simulation, 1979, Applied Science Publishers.
+Ertekin, T, Abou-Kassem, J.H. and G.R. King, Basic Applied Reservoir Simulation, SPE Textbook Vol 10, 2001.
+Fanchi, J., Principles of Applied Reservoir Simulation, 4th Edition, Elsevier GPP, 2018.
+Mattax, C.C. and Dalton, R. L, Reservoir Simulation, SPE Monograph Volume 13, 1990.
+Holstein, E. (Editor), Petroleum Engineering Handbook, Volume V(b), Chapt 17, Reservoir Engineering, 2007.
+Warner, H. (Editor), Petroleum Engineering Handbook, Volume VI, Chapter 6, Coalbed Methane, 2007.
+Carlson, M., Practical Reservoir Simulation, 2006, PennWell Corporation.
+R. E. Ewing, The Mathematics of Reservoir Simulation
+Other references
+
+
+== External links ==
+* Software for reservoir simulation

@@ -1,0 +1,48 @@
+Title: Ekofisk oil field
+Source: Wikipedia (CC BY-SA 4.0)
+Topic: Petroleum Engineering
+---
+
+Ekofisk is an oil field in block 2/4 of the Norwegian sector of the North Sea about 320 km (200 mi) southwest of Stavanger.  Discovered in 1969 by Phillips Petroleum Company, it remains one of the most important oil fields in the North Sea. This was the first discovery of oil after the drilling of over 200 exploration wells in the North Sea "triggered" by the Groningen gas field discovery. In 1971, Phillips started producing directly to tankers from four subsea wells. Oil production is planned to continue until 2048; concessions given, yet expected to continue beyond 2050.
+The Greater Ekofisk Area consists of Cod oil gas and condensate field, Ekofisk, West Ekofisk, Tor oil field, Albuskjell oil and gas field, Eldfisk oil and gas field, Embla oil and gas field and the Edda oil and gas field.  The Ekofisk Center is a vast complex of platforms and structures creating a transportation hub also for surrounding fields such as Valhall, Hod, Gyda, Ula, Statfjord, Heimdal, Tommeliten and Gullfaks.  The whole complex consists of 29 platforms. Produced oil is transported by the Norpipe oil pipeline to the Teesside Refinery in England. Natural gas is transported by the Norpipe gas pipeline to Emden in Germany.
+
+
+== Geology ==
+The Ekofisk field is a north–south trending anticline, with a central graben, forming a structure that is 49 km2 (19 sq mi) in area, with 244 m (801 ft) of vertical closure and a hydrocarbon column 305 m (1,001 ft) long, formed by Permian Zechstein salt movement in the form of salt pillows. The production zones at a depth of about 3 km include the Paleocene Ekofisk Formation and the Upper Cretaceous Tor Formation, both Chalk Group rocks containing porosities of 30-40%.  "The reservoir rock...is a true chalk-a fine-grained limestone composed of the skeletal remains of pelagic unicellular golden-brown algae or coccolithophores". The source rocks are the Upper Jurassic Kimmeridgian shales.
+The structure was discovered using seismic reflection data in the 1960s, although the initial interpretations were distorted due to zones of high gas saturation in the overlying Cenozoic rocks causing low seismic velocities. However, the high porosity of the reservoir rock does cause an increase in seismic amplitude which can be used with an isopach map to determine net pay.
+
+
+== Subsidence ==
+In the mid-1980s the Ekofisk field as a whole and the platforms in particular were found to be suffering from an unexpected degree of subsidence. Detailed geological investigation showed that it was the result of delayed compactional diagenesis of the Chalk Formation reservoir rocks. As hydrocarbons were produced the pore pressure declined and the effective stress increased, leading to subsidence. Water injection was initiated to repressurize the reservoir, but due to the lower compaction strength of water-saturated chalk compared with oil-saturated chalk the seafloor continued subsiding and displacements of several metres were recorded. It was calculated that the total subsidence would almost be 6 m (20 ft) at the end of the concession of Phillips Petroleum, too much to keep the platforms secure.
+The Norwegian government pressed Phillips to take action and the French company Technip was ordered to find a solution. As 5 of 7 platforms were interconnected, they had to be jacked-up by about 6 m (20 ft) at the same time. The eventual solution suggested was to extend the steel tubular legs of the platforms. Subsequently, large flanges were welded to these legs and when all flanges were welded and the legs cut, five platforms would be lifted simultaneously in one operation then extension pipes would be mounted in between the flanges. After bolting all flanges the platforms would be safe again.
+The four days lifting was completed on 17 August 1987, at 11:30 p.m. thanks to 108 hydraulic cylinders synchronised with a network of 14 NUM 760FCNCs. The position tolerance of the cylinders with each other (+/- 3 mm (0.12 in) for a 6 m (20 ft) extension per platform and +/- 100 mm (3.9 in) between platforms) was to be kept for 38 hours. During the welding of the flanges to the legs, these hydraulic cylinders took over the entire load. A couple of days before this great jack-up, the hotel platform was lifted, as it was not interconnected with the others. The total lifting capacity of all these cylinders was approximately 40,000 tonnes (39,000 long tons; 44,000 short tons) and was published in the Guinness World Records as being the largest jack-up.
+
+
+== Bravo blowout ==
+In April 1977, an oil well blowout occurred at the Ekofisk Bravo platform, due to an incorrectly installed downhole safety valve. At an estimated 80,000–126,000 barrels (12,700–20,000 m3) total, it was the largest blowout in the North Sea. Red Adair and his crew assisted with capping the blowout.
+
+
+== Images ==
+
+
+== Further reading ==
+Kvendseth, Stig S. (1988). Giant discovery - A history of Ekofisk through the first 20 years. Phillips Petroleum Company Norway, Public Affairs. ISBN 8299177111.
+
+
+== See also ==
+
+List of oil and gas fields of the North Sea
+Commercial offshore diving in the North Sea
+List of oil spills
+Alexander L. Kielland (platform) 1980 disaster
+
+
+== References ==
+
+
+== External links ==
+Ekofisk
+Ekofisk in Interactive Energy Map
+Ekofisk field data
+Ekofisk Industrial Heritage
+Jack-up mini documentary

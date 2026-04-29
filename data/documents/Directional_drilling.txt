@@ -1,0 +1,85 @@
+Title: Directional drilling
+Source: Wikipedia (CC BY-SA 4.0)
+Topic: Petroleum Engineering
+---
+
+Directional drilling (or slant drilling) is the practice of drilling non-vertical bores. It can be broken down into four main groups: oilfield directional drilling, utility installation directional drilling, directional boring (horizontal directional drilling - HDD), and surface in seam (SIS), which horizontally intersects a vertical bore target to extract coal bed methane.
+
+
+== History ==
+Many prerequisites enabled this suite of technologies to become productive. Probably, the first requirement was the realization that oil wells, or water wells, do not necessarily need to be vertical. This realization was quite slow, and did not really grasp the attention of the oil industry until the late 1920s when there were several lawsuits alleging that wells drilled from a rig on one property had crossed the boundary and were penetrating a reservoir on an adjacent property. Initially, proxy evidence such as production changes in other wells was accepted, but such cases fueled the development of small diameter tools capable of surveying wells during drilling. Horizontal directional drill rigs are developing towards large-scale, micro-miniaturization, mechanical automation, hard stratum working, exceeding length and depth oriented monitored drilling.
+Measuring the inclination of a wellbore (its deviation from the vertical) is comparatively simple, requiring only a pendulum. Measuring the azimuth (direction with respect to the geographic grid in which the wellbore was running from the vertical), however, was more difficult. In certain circumstances, magnetic fields could be used, but would be influenced by metalwork used inside wellbores, as well as the metalwork used in drilling equipment. The next advance was in the modification of small gyroscopic compasses by the Sperry Corporation, which was making similar compasses for aeronautical navigation. Sperry did this under contract to Sun Oil (which was involved in a lawsuit as described above), and a spin-off company "Sperry Sun" was formed, which brand continues to this day, absorbed into Halliburton. Three components are measured at any given point in a wellbore in order to determine its position: the depth of the point along the course of the borehole (measured depth), the inclination at the point, and the magnetic azimuth at the point. These three components combined are referred to as a "survey". A series of consecutive surveys are needed to track the progress and location of a wellbore.
+Prior experience with rotary drilling had established several principles for the configuration of drilling equipment down hole ("bottom hole assembly" or "BHA") that would be prone to "drilling crooked hole" (i.e., initial accidental deviations from the vertical would be increased). Counter-experience had also given early directional drillers ("DD's") principles of BHA design and drilling practice that would help bring a crooked hole nearer the vertical.
+In 1934, H. John Eastman and Roman W. Hines of Long Beach, California, became pioneers in directional drilling when they and George Failing of Enid, Oklahoma, saved the Conroe, Texas, oil field. Failing had recently patented a portable drilling truck. He had started his company in 1931 when he mated a drilling rig to a truck and a power take-off assembly. The innovation allowed rapid drilling of a series of slanted wells. This capacity to quickly drill multiple relief wells and relieve the enormous gas pressure was critical to extinguishing the Conroe fire. In a May, 1934, Popular Science Monthly article, it was stated that "Only a handful of men in the world have the strange power to make a bit, rotating a mile below ground at the end of a steel drill pipe, snake its way in a curve or around a dog-leg angle, to reach a desired objective." Eastman Whipstock, Inc., would become the world's largest directional company in 1973.
+Combined, these survey tools and BHA designs made directional drilling possible, but it was perceived as arcane. The next major advance was in the 1970s, when downhole drilling motors (aka mud motors, driven by the hydraulic power of drilling mud circulated down the drill string) became common. These allowed the drill bit to continue rotating at the cutting face at the bottom of the hole, while most of the drill pipe was held stationary. A piece of bent pipe (a "bent sub") between the stationary drill pipe and the top of the motor allowed the direction of the wellbore to be changed without needing to pull all the drill pipe out and place another whipstock. Coupled with the development of measurement while drilling tools (using mud pulse telemetry, networked or wired pipe or electromagnetism (EM) telemetry, which allows tools down hole to send directional data back to the surface without disturbing drilling operations), directional drilling became easier.
+Certain profiles cannot be easily drilled while the drill pipe is rotating. Drilling directionally with a downhole motor requires occasionally stopping rotation of the drill pipe and "sliding" the pipe through the channel as the motor cuts a curved path. "Sliding" can be difficult in some formations, and it is almost always slower and therefore more expensive than drilling while the pipe is rotating, so the ability to steer the bit while the drill pipe is rotating is desirable. Several companies have developed tools which allow directional control while rotating. These tools are referred to as rotary steerable systems (RSS). RSS technology has made access and directional control possible in previously inaccessible or uncontrollable formations.  
+
+
+== Benefits ==
+Wells are drilled directionally for several purposes:
+
+Increasing the exposed section length through the reservoir by drilling through the reservoir at an angle.
+Drilling into the reservoir where vertical access is difficult or not possible. For instance an oilfield under a town, under a lake, or underneath a difficult-to-drill formation.
+Allowing more wellheads to be grouped together on one surface location can allow fewer rig moves, less surface area disturbance, and make it easier and cheaper to complete and produce the wells. For instance, on an oil platform or jacket offshore, 40 or more wells can be grouped together. The wells will fan out from the platform into the reservoir(s) below. This concept is being applied to land wells, allowing multiple subsurface locations to be reached from one pad, reducing costs.
+Drilling along the underside of a reservoir-constraining fault allows multiple productive sands to be completed at the highest stratigraphic points.
+Drilling a "relief well" to relieve the pressure of a well producing without restraint (a "blowout"). In this scenario, another well could be drilled starting at a safe distance away from the blowout, but intersecting the troubled wellbore. Then, heavy fluid (kill fluid) is pumped into the relief wellbore to suppress the high pressure in the original wellbore causing the blowout.
+Most directional drillers are given a blue well path to follow that is predetermined by engineers and geologists before the drilling commences. When the directional driller starts the drilling process, periodic surveys are taken with a downhole instrument to provide survey data (inclination and azimuth) of the well bore. These pictures are typically taken at intervals between 10 and 150 meters (33 and 492 feet), with 30 meters (98 feet) common during active changes of angle or direction, and distances of 60–100 meters (200–330 feet) being typical while "drilling ahead" (not making active changes to angle and direction). During critical angle and direction changes, especially while using a downhole motor, a measurement while drilling (MWD) tool will be added to the drill string to provide continuously updated measurements that may be used for (near) real-time adjustments.
+This data indicates if the well is following the planned path and whether the orientation of the drilling assembly is causing the well to deviate as planned. Corrections are regularly made by techniques as simple as adjusting rotation speed or the drill string weight (weight on bottom) and stiffness, as well as more complicated and time-consuming methods, such as introducing a downhole motor. Such pictures, or surveys, are plotted and maintained as an engineering and legal record describing the path of the well bore. The survey pictures taken while drilling are typically confirmed by a later survey in full of the borehole, typically using a "multi-shot camera" device.
+The multi-shot camera advances the film at time intervals so that by dropping the camera instrument in a sealed tubular housing inside the drilling string (down to just above the drilling bit) and then withdrawing the drill string at time intervals, the well may be fully surveyed at regular depth intervals (approximately every 30 meters (98 feet) being common, the typical length of 2 or 3 joints of drill pipe, known as a stand, since most drilling rigs "stand back" the pipe withdrawn from the hole at such increments, known as "stands").
+Drilling to targets far laterally from the surface location requires careful planning and design. The current record holders manage wells over 10 km (6.2 mi) away from the surface location at a true vertical depth (TVD) of only 1,600–2,600 m (5,200–8,500 ft).
+This form of drilling can also reduce the environmental cost and scarring of the landscape. Previously, long lengths of landscape had to be removed from the surface. This is no longer required with directional drilling.
+
+
+== Disadvantages ==
+
+Until the arrival of modern downhole motors and better tools to measure inclination and azimuth of the hole, directional drilling and horizontal drilling was much slower than vertical drilling due to the need to stop regularly and take time-consuming surveys, and due to slower progress in drilling itself (lower rate of penetration). These disadvantages have shrunk over time as downhole motors became more efficient and semi-continuous surveying became possible.
+What remains is a difference in operating costs: for wells with an inclination of less than 40 degrees, tools to carry out adjustments or repair work can be lowered by gravity on cable into the hole. For higher inclinations, more expensive equipment has to be mobilized to push tools down the hole.
+Another disadvantage of wells with a high inclination was that prevention of sand influx into the well was less reliable and needed higher effort. Again, this disadvantage has diminished such that, provided sand control is adequately planned, it is possible to carry it out reliably.
+
+
+=== Stealing oil ===
+In 1990, Iraq accused Kuwait of stealing Iraq's oil through slant drilling.
+The United Nations redrew the border after the 1991 Gulf war, which ended the seven-month Iraqi occupation of Kuwait. As part of the reconstruction, 11 new oil wells were placed among the existing 600. Some farms and an old naval base that used to be in the Iraqi side became part of Kuwait.
+In the mid-twentieth century, a slant-drilling scandal occurred in the huge East Texas Oil Field.
+
+
+=== New technologies ===
+Between 1985 and 1993, the Naval Civil Engineering Laboratory (NCEL) (now the Naval Facilities Engineering Service Center (NFESC)) of Port Hueneme, California developed controllable horizontal drilling technologies. These technologies are capable of reaching 10,000–15,000 ft (3,000–4,600 m) and may reach 25,000 ft (7,600 m) when used under favorable conditions.
+
+
+== Techniques ==
+
+
+=== Wellbore Surveys ===
+Specialized tools determine the wellbore's deviation from vertical (inclination) and its directional orientation (azimuth). This data is vital for trajectory adjustments. These surveys are taken at regular intervals (e.g., every 30–100 meters) to track the wellbore's progress in real time. In critical sections, measurement while drilling (MWD) tools provide continuous downhole measurements for immediate directional corrections as needed. MWD uses gyroscopes, magnetometers, and accelerometers to determine borehole inclination and azimuth while the drilling is being done.
+
+
+=== Trajectory Control ===
+Bottom Hole Assembly (BHA): The configuration of drilling equipment near the drill bit (BHA) profoundly influences drilling direction. BHAs can be tailored to promote straight drilling or induce deviations.
+Downhole Motors: Specialized mud motors rotate only the drill bit, allowing controlled changes in direction while the majority of the drill string remains stationary.
+Rotary Steerable Systems (RSS): Advanced RSS technology enables steering even while the entire drill string is rotating, ensuring greater efficiency and control.
+
+
+== See also ==
+Deviation survey
+Geosteering
+Hydraulic fracturing
+Logging while drilling
+Measurement while drilling
+Mud motor
+Mudlogger
+Rotary steerable system
+Trenchless technology
+
+
+== References ==
+
+
+== External links ==
+
+"Slanted Oil Wells, Work New Marvels" Popular Science, May 1934, early article on the drilling technology
+"Technology and the Conroe Crater" American Oil & Gas Historical Society
+Short video explaining horizontal drilling for gas extraction from oil shale. (American Petroleum Institute)
+A video depicting horizontal shale drilling can be seen here.
+"Mechanical Mole Bores Crooked Wells." Popular Science, June 1942, pp. 94–95.
+The unsung masters of the oil industry 21 July 2012 The Economist
